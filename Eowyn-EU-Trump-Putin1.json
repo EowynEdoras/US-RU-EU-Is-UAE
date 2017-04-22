@@ -1,1 +1,3589 @@
-{"name”:”Eowyn-EU-Trump-Putin1”,”description":"","proxyImages":true,"defaultMap":"map-eoeutrpu”,”defaultPerspective":null,"attributeRelevance":{},"attributes":[{"_id":"attr-QA3hjsB6","name":"Connection Type","format":"string","private":false,"limit":1,"category":"General","prompt":"list","locked":false,"values":[]},{"_id":"attr-zW15Rr88","name":"Description","format":"text","private":false,"limit":1,"category":"General","prompt":"none","locked":false,"values":[]},{"_id":"attr-ChDKpCHw","name":"Element Type","format":"string","private":false,"limit":1,"category":"General","prompt":"list","locked":false,"values":["person","Bank","Consortium/Company","Company","Organization","Political Party","Gas Deposits","Portfolio","Offshore company","Mine","Newspaper-Media","Oligarch","Place","Government"]},{"_id":"attr-Eskk8BoO","name":"Label","format":"string","private":false,"limit":1,"category":"General","prompt":"autocomplete","locked":false,"values":[]},{"_id":"attr-XiBTjap5","name":"Loop Type","format":"string","private":false,"limit":1,"category":"General","prompt":"list","locked":false,"values":[]},{"_id":"attr-H4jjWX3V","name":"Tags","format":"string","private":false,"limit":"none","category":"General","prompt":"autocomplete","locked":false,"values":[]}],"elements":[{"_id":"elem-1NmMWj7P","attributes":{"label":"Sakhalin II Project","element type":"Consortium/Company","description":"Oil exploration and mining project in Sakhalin island of Russia.","tags":["Russia"]}},{"_id":"elem-1yrs91R0","attributes":{"label":"Sergey Lavrov","element type":"person","description":"RU Government. Russian Foreign Minister","tags":["Russia"]}},{"_id":"elem-2lkD9vR8","attributes":{"label":"Sylvio Berlusconi","element type":"person","description":"Erstwhile PM of Italy. Putin's personal friend.","tags":["Italy"]}},{"_id":"elem-33ilX4rY","attributes":{"label":"Patrick Pouyanné","element type":"person","description":"CEO of Total SA","tags":["France"]}},{"_id":"elem-3BSwsGfb","attributes":{"label":"Alain Vizier","element type":"person","description":"Marine Le Pen's Spokesperson","tags":["France"]}},{"_id":"elem-3OM7wFmB","attributes":{"label":"George G Lombardi","element type":"person","description":"Businessman. Liason between Italian far right parties Northern League and Forza Italia. https://www.nytimes.com/2017/01/13/world/europe/marine-le-pen-trump.html?_r=0.\n\nForza Italia is Berlusconi's party!","tags":["American with Russian Ties"]}},{"_id":"elem-3m2zbCZC","attributes":{"label":"Westminster Management","element type":"Portfolio","description":"\"Portfolio consists of 16,784 units in four states—New Jersey, Pennsylvania, Delaware, and New York—with the largest concentration of apartments in southern New Jersey and Philadelphia.\" http://www.blankrome.com/index.cfm?contentID=43&itemID=151"}},{"_id":"elem-4Khz9XY4","attributes":{"label":"Penelope Fillon","element type":"person","description":"Held a fake cushy job  aka Penelopegate- http://www.cbc.ca/news/world/france-socialist-party-presidential-primary-benoit-hamon-1.3957452","tags":["France"]}},{"_id":"elem-4PWuvvxU","attributes":{"label":"International Petroleum Investment Co (IPIC)","element type":"Company","description":"Abu Dhabi based Oil and Gas company. Owns 24.9% stake in Austrain oil and gas co, OMV, which it seems to have sold to Gazprom in 2014\nThis would give gazprom a greater control over South Stream pipeline into Austria. Not sure if the deal was done. http://www.reuters.com/article/austria-omv-idUSL6N0P73A720140626","tags":["Austria","AbuDhabi"]}},{"_id":"elem-5ehSGEoP","attributes":{"label":"Glencore International Plc","element type":"Company","description":"In 2011 Aabar Investments PJS confirmed an investment of $850 Million in Glencore, bringing it's investment to $1B. https://web.archive.org/web/20110820035605/http://www.aabar.com/attachments/AABAR%20PRESS%20RELEASE%20-%20GLENCORE%20(final).pdf"}},{"_id":"elem-6OQQGFnp","attributes":{"label":"Farage Ltd","element type":"Company","description":"Founded by Nigel Farage in 2003 with his brother Daniel Gillespie, another metals trader https://www.ft.com/content/02cad03a-844f-11e4-bae9-00144feabdc0\nThis company is now insolvent https://beta.companieshouse.gov.uk/company/04659240/officers"}},{"_id":"elem-6YuEoKGT","attributes":{"label":"Farage Futures","element type":"Company","description":"Commodities brokerage firm started by Nigel Farage in 1994. This was a small company that helped clients broker orders on the exchange. (I'm assuming exchange here means London Metals Exchange or LME) Accounts available until 2002 https://companycheck.co.uk/company/02900377/FARAGE-FUTURES-LIMITED/companies-house-data","tags":["UK"]}},{"_id":"elem-6zYVDgaB","attributes":{"label":"Better for the Country Ltd","element type":"Company","description":"Company that ran Leave EU, and is now a part owner in Westmonster along with Nigel Heaver. https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster","tags":["UK"]}},{"_id":"elem-7vZvjNV9","attributes":{"label":"Northern League","element type":"Political Party","description":"Italy's far right political party","tags":["Italy"]}},{"_id":"elem-8ShZfoVg","attributes":{"label":"Wikileaks","element type":"Organization"}},{"_id":"elem-9CWcrRyi","attributes":{"label":"Cory Lewandowski","element type":"person","description":"One of Trump's former Campaign advisors. He claims that he did not know Cater Page, but a few other Trump campaign officials claim he was the conduit for Carter Page. http://dailycaller.com/2017/04/13/heres-who-introduced-carter-page-to-the-trump-campaign/"}},{"_id":"elem-B92mCCGw","attributes":{"label":"MI5","element type":"Government","description":"UK Spy agency","tags":["UK"]}},{"_id":"elem-Be7Qv22q","attributes":{"label":"RAO UES","element type":"Company","description":"Giant Electric company in Russia. Now ceased to exit after the reorganization and restructuring of the massive privatization of the electrical company. https://en.wikipedia.org/wiki/RAO_UES#cite_note-3https://www.ft.com/content/48368024-3c3c-11db-9c97-0000779e2340","tags":["Russia"]}},{"_id":"elem-C3a1OK9b","attributes":{"label":"Rosneft","element type":"Company","description":"Russian Oil company","tags":["Russia"]}},{"_id":"elem-C9zYiSeC","attributes":{"label":"Nigel Farage","element type":"person","description":"A prominent player in UK Brexit. A member of the UKIP party","tags":["UK"]}},{"_id":"elem-CM8bGFgZ","attributes":{"label":"UKIP","element type":"Political Party","description":"UK's political party that is pro Brexit","tags":["UK"]}},{"_id":"elem-CY6AbUt5","attributes":{"label":"Carter Page","element type":"person","description":"Ex Pentagon. Worked in Russia. \nClaims to be part owner of Global Energy Partners. nicknamed Stranichkin or little page by https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview\nhttp://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283","tags":["American with Russian Ties"]}},{"_id":"elem-Ds62uvc3","attributes":{"label":"NordSteam II Project","element type":"Consortium/Company","description":"belongs to Gazprom","tags":["Russia"]}},{"_id":"elem-Egr0LZZK","attributes":{"label":"Randa Kassis","element type":"person","description":"Fabien Baussart's wife of Syrian origin. Socialite. Supposedly an anthropologist and a journalist. A personal Friend to Russian foreign Minister Sergey Lavrov","tags":["France"]}},{"_id":"elem-EyzjS51Q","attributes":{"label":"Hadi Al Alawai","element type":"person","description":"Bahrain, owner of Al Hayat Group. Has a picture with Carter Page"}},{"_id":"elem-FYKqgwaL","attributes":{"label":"Vladimir Putin","element type":"person","description":"President of RU","tags":["Russia"]}},{"_id":"elem-FbFw3tTG","attributes":{"label":"Leave EU Campaign","element type":"Organization","description":"Arron Banks bankrolled campaign for Brexit and leave EU. This campaign was backed by Nigel Farage. https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster","tags":["UK"]}},{"_id":"elem-FhY2m5wt","attributes":{"label":"Fabien Baussart","element type":"person","description":"Pro-Russian French philanthropist. Nominated Putin for Nobel Peace Prize.","tags":["France"]}},{"_id":"elem-GCnPNiaM","attributes":{"label":"Future Pipe Industries Group Ltd","element type":"Company","description":"Dubai based company that paid 2F to set up a meeting between Lebanese Billonaire Fouad Makhzoumi, Putin and Pouyanné at an economic conference in St Petersburg, in 2015. The contract also states that Fillon would assist Makhzoumi to connect with others in Russia and other countries. https://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"}},{"_id":"elem-GKSnnYOl","attributes":{"label":"Aabar Investments","element type":"Company","description":"Apparently, a holding co for IPIC assets, including OMV stake. https://en.wikipedia.org/wiki/Aabar_Investments\n\nThis may not be relevant in this network","tags":["AbuDhabi"]}},{"_id":"elem-GPZe2k46","attributes":{"label":"Rex Tillerson","element type":"person","description":"ExxonMobil chief. Now divested and Secretary of state in the US govt","tags":["American with Russian Ties"]}},{"_id":"elem-GeyU9HpH","attributes":{"label":"Morgan Properties"}},{"_id":"elem-HIETQFdM","attributes":{"label":"Benjamin Netanyahu","element type":"person","description":"Israel's PM. Agreement with Putin in 2015 to develop the Leviathan Gas Fields, per wiki","tags":["Israel"]}},{"_id":"elem-Hyrfu499","attributes":{"label":"Ekaterina Paderina","element type":"person","description":"Russian Wife of Arron Banks. Hancock intervened when she ran into 'issues'","tags":["Russia"]}},{"_id":"elem-ITzyOV1T","attributes":{"label":"ExxonMobil","element type":"Company","description":"US Oil company","tags":["American","American with Russian Ties"]}},{"_id":"elem-IfQnCDq4","attributes":{"label":"Sergei Yatsenko","element type":"person","description":"Former manager at Gazprom. formed Global Energy Partners with Carter Page","tags":["Russia"]}},{"_id":"elem-IrlRHtpL","attributes":{"label":"University of St Petersburg"}},{"_id":"elem-KAdRNyRw","attributes":{"label":"François Fillon","element type":"person","description":"French Politician from another far right party of Republicans","tags":["France"]}},{"_id":"elem-KCzlC8PB","attributes":{"label":"ExxonNeftGas","element type":"Consortium/Company","description":"A consortium to mine oil in Sakhalin I project and other projects","tags":["American with Russian Ties"]}},{"_id":"elem-KmlkQ9NX","attributes":{"label":"Donald Trump","element type":"person","description":"President of US","tags":["American with Russian Ties"]}},{"_id":"elem-LlgYTNKb","attributes":{"label":"First Czech Russian Bank","element type":"Bank","description":"A now defunct Russian bank that loaned 1 million euros to National Front in 2014. https://www.nytimes.com/2016/10/04/world/europe/french-conservatives-sarkozy-putin-russia.html?_r=0","tags":["Russia"]}},{"_id":"elem-M6e4WFhS","attributes":{"label":"Vyacheslav Volodin","element type":"person","description":"Putin's chief of staff","tags":["Russia"]}},{"_id":"elem-Mq6713Lr","attributes":{"label":"JD Gordon","element type":"person","description":"Trump Advisor"}},{"_id":"elem-Muqb7I1t","attributes":{"label":"Demetris Marchessini","element type":"person","description":"Another of UKIP's bankrollers from Greece; Anti LGBT, pro Russian Orthodoxy https://www.channel4.com/news/ukip-donor-donations-demetri-marchessini-views-politics","tags":["Greece"]}},{"_id":"elem-NYIyCwFF","attributes":{"label":"UK Government","element type":"Government","tags":["UK"]}},{"_id":"elem-O3SOvHnc","attributes":{"label":"Jared Kushner","element type":"person","description":"Trump's son-in-law. White house Senior Advisor, Married to Ivanka Trump. Met with Kislyak in Dec. 2016.","tags":["American with Chinese Ties","American with Russian Ties"]}},{"_id":"elem-P0OBjFaI","attributes":{"label":"Former De Beers Mine in Kimberly","element type":"Mine","tags":["Africa"]}},{"_id":"elem-P1YEH2zy","attributes":{"label":"Les Republicains","element type":"Political Party","tags":["France"]}},{"_id":"elem-QoH0MfO4","attributes":{"label":"Total S.A","element type":"Company","description":"Oil and Gas company","tags":["France"]}},{"_id":"elem-QrEN0WW5","attributes":{"label":"AIG Global Real Estate Investment Corp","element type":"Company","description":"Rea Estate company, subsidiary of AIG?"}},{"_id":"elem-T2pOjfpM","attributes":{"label":"Al Hayat Group","element type":"Consortium/Company","description":"https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=217238153"}},{"_id":"elem-TLGIoIJM","attributes":{"label":"Gazprom","element type":"Company","description":"Russian State Oil Company","tags":["Russia"]}},{"_id":"elem-TsrRplNt","attributes":{"label":"Igor Divyekin","element type":"person","description":"Internal Affairs/Intelligence head in RU government","tags":["Russia"]}},{"_id":"elem-Ware47gk","attributes":{"label":"Michael Milken","element type":"person","description":"The US Junk bond king who was at the center if Drexel's collapse in 1990s. Milken was indicted for securities fraud, racketeering and other charges, H pleaded guilty in 1989 http://www.nytimes.com/1992/08/06/business/milken-s-sentence-reduced-by-judge-7-months-are-left.html?pagewanted=all&src=pm"}},{"_id":"elem-WbUnatME","attributes":{"label":"Marine Le Pen","element type":"person","description":"french politician on the far-right party National Front. Jean Marie Le Pen's daughter. Was seen at Trump Tower NYC (Donald Trump's residence). Claimed she did not meet Trump and was on a 'private trip'.https://www.nytimes.com/2017/01/13/world/europe/marine-le-pen-trump.html?_r=0","tags":["France"]}},{"_id":"elem-Wv4jgeDP","attributes":{"label":"Alfa Bank","element type":"Bank","description":"Russian bank controlled by Mikhail Fridman, Pyotr Aven and German Khan","tags":["Russia"]}},{"_id":"elem-X20al1UI","attributes":{"label":"Elizabeth Bilney","element type":"person","description":"A person that appears in a lot of Arron banks companies. Listed as a beneficiary of PRI Holdings","tags":["UK"]}},{"_id":"elem-XLcHxK0m","attributes":{"label":"Kushner Companies","element type":"Company","description":"Kushner's family companies now run by Jared Kushner"}},{"_id":"elem-Y0GeFyTz","attributes":{"label":"North Atlantic League"}},{"_id":"elem-Y4G3WoRO","attributes":{"label":"Drexel Burnham Lambert","element type":"Company","description":"Maclaine Watson, a traditional commodities brokerage  taken over by Drexel Burnham Lambert in 1982, just before Nigel Farage entered. https://www.ft.com/content/02cad03a-844f-11e4-bae9-00144feabdc0","tags":["American"]}},{"_id":"elem-YWtuRV4z","attributes":{"label":"Blue Steel Enterprises","element type":"Company"}},{"_id":"elem-ZBiFSWJ3","attributes":{"label":"Michael Caputo","element type":"person","description":"Trump Advisor","tags":["American with Russian Ties"]}},{"_id":"elem-ZKj72YhO","attributes":{"label":"Sam Clovis","element type":"person","description":"Trump campaign policy Director; Senior White House advisor for US Department of Agriculture. A former professor and a talk show host. Supposed to have introduced Carter Page to the Trump campaign via Corey Lewandowski. http://dailycaller.com/2017/04/13/heres-who-introduced-carter-page-to-the-trump-campaign/","tags":["American"]}},{"_id":"elem-ZhHtHm56","attributes":{"label":"Rock E-Systems Ltd","element type":"Company","description":"There's an application to strike this company off the register.  Given address is Lysander House, Catbrain Lane, Cribbs Causeway, Bristol, England, BS10 7TQ. Person's with significant control- Arron Fraser Andrew banks https://beta.companieshouse.gov.uk/company/07816122/persons-with-significant-control","tags":["UK"]}},{"_id":"elem-a8tR3WTP","attributes":{"label":"RT","element type":"Newspaper-Media","description":"News media Propaganda outlet for Russia.","tags":["Russia"]}},{"_id":"elem-bLgLkpOO","attributes":{"label":"Viktor Yanukovich","element type":"person","description":"Ousted President of Ukraine. Putin's Puppet","tags":["Ukraine"]}},{"_id":"elem-c4LSxQQt","attributes":{"label":"Igor Sechin","element type":"person","description":"Head of Rosneft\nhead of Sivolaki, the military division of RU Govt.","tags":["Russia"]}},{"_id":"elem-c4uuaqgd","attributes":{"label":"Oxana Braznik","element type":"person","description":"'Journalist' with close ties to Putin https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/","tags":["Russia"]}},{"_id":"elem-cS8wXixk","attributes":{"label":"African Compass Trading Co.","element type":"Company","description":"South African company with Aron banks serving as Director and Secretary under two differently given names– Arron Banks, Secretary; Arron Andrew Fraser banks– Director. https://beta.companieshouse.gov.uk/company/08264663/officers; https://beta.companieshouse.gov.uk/officers/C25RppC7mG2U80F078OdJGvWieM/appointments; https://beta.companieshouse.gov.uk/officers/w_j5UgiMOqPoibHkYO9N90Ax4kc/appointments","tags":["Panama"]}},{"_id":"elem-cSDydFfK","attributes":{"label":"Denis Francekin","element type":"person","description":"US and Canada Director for National Front","tags":["France"]}},{"_id":"elem-cSayR9wq","attributes":{"label":"Front National Or National Front","element type":"Political Party","description":"Marine Le Pen's (France's) far right political party","tags":["France"]}},{"_id":"elem-cXsM5NQj","attributes":{"label":"Donald Trump Jr","element type":"person","description":"Son of Donald Trump, US President. He was paid $50k in Oct 2016 by Centre for Political and Foreign Affairs","tags":["American","American with Russian Ties"]}},{"_id":"elem-clnTGHhf","attributes":{"label":"Leave.EU Group","element type":"Consortium/Company","description":"Group created for Brexit in 2014?","tags":["UK"]}},{"_id":"elem-csABj9Eo","attributes":{"label":"Richard Burt","element type":"person","description":"Pro Putin Speech writer","tags":["American with Russian Ties"]}},{"_id":"elem-dBvb6AMl","attributes":{"label":"Mike Hancock","element type":"person","description":"Former Lib. Dem Mp, Disgraced. He tried to help Ekaterina Paderina from deportation in 1990.","tags":["UK"]}},{"_id":"elem-dYer3nPC","attributes":{"label":"Johanna Ross","element type":"person","description":"'Journalist' - former Political Advisor to Putin's Chief of Staff Vyacheslav Volodin; he is under EU sanctions list. https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/","tags":["UK","Russia"]}},{"_id":"elem-eVsVrEEB","attributes":{"label":"Mikhail Leontiev","element type":"person","description":"Talking head of Rosneft","tags":["Russia"]}},{"_id":"elem-ggEGurkE","attributes":{"label":"Global Energy Capital","element type":"Company","description":"Supposedly an oil exploration company/energy investment company\nhttp://globalenergycap.com/company/","tags":["American with Russian Ties"]}},{"_id":"elem-ghNdMmiZ","attributes":{"label":"Nigel Heaver","element type":"person","description":"Editor and co-owner of Westmonster. Former press advisor to Nigel Farage","tags":["UK"]}},{"_id":"elem-glOqAaDZ","attributes":{"label":"RT (US Division)","element type":"Organization","description":"Russia Today. Russian media organization. Trump gave an interview there","tags":["Russia"]}},{"_id":"elem-hCmwOaVd","attributes":{"label":"Center for Political and Foreign Affairs","element type":"Organization","tags":["France"]}},{"_id":"elem-hJfFZXUI","attributes":{"label":"Paul Manafort","element type":"person","description":"Long ties to Firtash, a Ukrainian billionaire, pro-Putin oligarch. \nTies to Oleg Deripaska, tof RUSAL and EN+ group. Spat with Deripaska over Black Sea Cable investments","tags":["American with Russian Ties"]}},{"_id":"elem-iouUgjGh","attributes":{"label":"Jeff Sessions","element type":"person","description":"Attorney General of US appointed by Trump. Met with Kisliyak","tags":["American with Russian Ties"]}},{"_id":"elem-jhM1tJeM","attributes":{"label":"Sergei Kislyak","element type":"person","description":"Russian Ambassador to US","tags":["Russia"]}},{"_id":"elem-l2FGv89g","attributes":{"label":"Arron Banks","element type":"person","description":"(B)Millionaire. One of UKIP's prominent funders.","tags":["UK","Russia"]}},{"_id":"elem-lFM21wOr","attributes":{"label":"Leviathan gas Fields","element type":"Gas Deposits","description":"These oil/gas fields are close to Israel/Cyprus","tags":["Israel"]}},{"_id":"elem-lSp3oZK5","attributes":{"label":"Westmonster","element type":"Newspaper-Media","description":"A Brietbart-style media site.https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster","tags":["UK"]}},{"_id":"elem-mUJA2XCr","attributes":{"label":"Africa Strategic Resources Ltd","element type":"Offshore company","description":"Arron Banks Company listed in Panama papers  https://offshoreleaks.icij.org/nodes/10156416","tags":["Panama","UK"]}},{"_id":"elem-msXfbbVb","attributes":{"label":"RU Government","element type":"Government","tags":["Russia"]}},{"_id":"elem-mxuWc05m","attributes":{"label":"Parliament","element type":"Government","tags":["UK"]}},{"_id":"elem-n96CKH80","attributes":{"label":"PRI Holdings","element type":"Offshore company","description":"Arron Banks holding company listed in the Panama papers.  https://offshoreleaks.icij.org/nodes/10156416","tags":["UK","Panama"]}},{"_id":"elem-nkFF9OH6","attributes":{"label":"Rocks Ltd","element type":"Company"}},{"_id":"elem-nsgS5aUz","attributes":{"label":"Rick Dearborn","element type":"person","description":"Sessions's Chief of Staff; Supposed to have introduced Carter Page to Trump campaign http://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283","tags":["American","American with Russian Ties"]}},{"_id":"elem-oGNTcdCL","attributes":{"label":"Mining rights in Lesotho","element type":"Mine","tags":["Africa"]}},{"_id":"elem-oZUpJiPN","attributes":{"label":"United Kingdom","element type":"Place","tags":["UK"]}},{"_id":"elem-pPbRBW1d","attributes":{"label":"Viktor Pinchuk","element type":"Oligarch","description":"Ukrainian Oligarch","tags":["Ukraine"]}},{"_id":"elem-qQwGHLFI","attributes":{"label":"Boris Johnson","element type":"person","description":"UK Politicial. Tory who, along with Farage propounded the leave EU or Brexit.","tags":["UK"]}},{"_id":"elem-qsuy7HUc","attributes":{"label":"Gazprom media","element type":"Company","description":"Media company belonging to the state oil company Gazprom","tags":["Russia"]}},{"_id":"elem-rgR33z5G","attributes":{"label":"Parson's Jewellers Ltd","element type":"Company","description":"One of the oldest jewellery companies. Now closed. http://www.dailymail.co.uk/news/article-2549422/Oldest-jewellery-shop-Britain-100-000-engagement-rings-close-300-years-no-one-wants-buy-it.html.\nHas multiple charges against it. https://beta.companieshouse.gov.uk/company/00301930/charges","tags":["UK"]}},{"_id":"elem-roXEhwds","attributes":{"label":"Sputnik, UK Office","element type":"Newspaper-Media","description":"Russian news media, an effective propaganda arm of Russian news. https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/","tags":["UK","Russia"]}},{"_id":"elem-ryKVhLrL","attributes":{"label":"Fouad Makhzoumi","element type":"person","description":"Head of Future Pipe Industries Group Ltd, based in Dubai"}},{"_id":"elem-rzHF4iCk","attributes":{"label":"2F","element type":"Company","description":"Fillon's advisory firm"}},{"_id":"elem-sZFkYYyJ","attributes":{"label":"AIG","element type":"Company","description":"American International Group which is now owned by Aabar Investments","tags":["American"]}},{"_id":"elem-tODAZgGM","attributes":{"label":"Phillip Séguin","element type":"person","description":"mentor to Fillon. Source Wiki. Died on  7 January 2010 from a heart attack. (wikipedia) http://www.lemonde.fr/disparitions/","tags":["France"]}},{"_id":"elem-tVMVq3pK","attributes":{"label":"Vavista Ltd","element type":"Company","description":"A company with registered address in Bristol. Lists Arron Andrew Fraser Banks as the director. https://beta.companieshouse.gov.uk/company/08267083/officers; https://beta.companieshouse.gov.uk/officers/C25RppC7mG2U80F078OdJGvWieM/appointments","tags":["UK"]}},{"_id":"elem-tbcSDCJe","attributes":{"label":"Paul Sykes","element type":"person","description":"No 1 donor for UKIP and Brexit. Moved back to Tories?","tags":["UK"]}},{"_id":"elem-tmQ2JR5j","attributes":{"label":"Oleg Gordievsky","element type":"person","description":"Russian double agent during 1970s, now in UK"}},{"_id":"elem-tuV1Icsy","attributes":{"label":"OMV","element type":"Company","description":"Austrian oil and has company. Connected with South stream pipeline. 24.9% stake is owned by IPIC http://www.reuters.com/article/austria-omv-idUSL6N0P73A720140626","tags":["Austria"]}},{"_id":"elem-uCdrbakN","attributes":{"label":"Jacobus Lodewick Coetzee","element type":"person","description":"Who appears, along with Elizabeth Bilney, as person connected with Banks's many companies. Listed as a beneficiary of PRI Holdings","tags":["UK"]}},{"_id":"elem-uabGk1pa","attributes":{"label":"Katya Zatuliveter","element type":"person","description":"Mike Hancock's girlfriend MI5 flagged as a Russian spy! https://www.the-american-interest.com/2016/07/26/who-funded-brexit/\nhttp://www.dailymail.co.uk/news/article-2052827/Katia-Zatuliveter-best-KGB-agent-30-years-claims-colonel.html","tags":["Russia"]}},{"_id":"elem-v0ljULzN","attributes":{"label":"Russian Foreign Secret Service SVR","element type":"Government","description":"SVE Russia's secret service part of FSB/GRU","tags":["Russia"]}},{"_id":"elem-vPwfBs8I","attributes":{"label":"Julian Assange","element type":"person"}},{"_id":"elem-wRGVq8el","attributes":{"label":"Michael Flynn","element type":"person","description":"Resigned as Trump's National Security Advisor amid furor of Russian connections. Met  Kislyak  in Dec., 2016. Additional meetings previously. Called Kislyak Dec 29, 2016.","tags":["American with Russian Ties"]}},{"_id":"elem-wwXy6aSg","attributes":{"label":"Forza Italia","element type":"Political Party","description":"Italy's far right political party","tags":["Italy"]}},{"_id":"elem-x4N29yw1","attributes":{"label":"Nicolas Sarkozy","element type":"person","description":"earlier President of France","tags":["France"]}},{"_id":"elem-xhg1BxnY","attributes":{"label":"Diana James","element type":"person","description":"UKIP's pro-Putin leader who replaced the pro-Putin Farage in Sep, 2016 https://www.theguardian.com/politics/2016/sep/18/new-ukip-leader-says-she-counts-vladimir-putin-as-a-political-hero","tags":["UK"]}},{"_id":"elem-y83fkwP2","attributes":{"label":"Artem Torchinsky","element type":"person","description":"Torchinsky worked along with Carter Page during the break up of RAO UES in Merryl Lynch's Moscow Office. http://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283","tags":["Russia"]}},{"_id":"elem-lWN0vsUY","attributes":{"label":"RPR (Neo-Gaullist) Party","element type":"Political Party","tags":["France"]}}],"connections":[{"_id":"conn-0xvt0VbM","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CY6AbUt5","to":"elem-TsrRplNt"},{"_id":"conn-13Y1fhKT","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-xhg1BxnY","to":"elem-CM8bGFgZ"},{"_id":"conn-1I19RoJM","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-ghNdMmiZ","to":"elem-C9zYiSeC"},{"_id":"conn-1rafxozb","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Egr0LZZK","to":"elem-1yrs91R0"},{"_id":"conn-2HKaDzX5","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-hJfFZXUI","to":"elem-bLgLkpOO"},{"_id":"conn-2bSwMr1L","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-NYIyCwFF","to":"elem-mxuWc05m"},{"_id":"conn-2h23NRCz","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-GKSnnYOl","to":"elem-sZFkYYyJ"},{"_id":"conn-2zI4jBAS","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-6zYVDgaB","to":"elem-lSp3oZK5"},{"_id":"conn-31dSixqL","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-C9zYiSeC","to":"elem-6OQQGFnp"},{"_id":"conn-3Kn3u8Jp","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-uabGk1pa","to":"elem-IrlRHtpL"},{"_id":"conn-3SLCHU22","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-KmlkQ9NX","to":"elem-C9zYiSeC"},{"_id":"conn-3f5RPRZL","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Employment","description":"According to this report katya Zatuliveter worked in the UK parliament as a parliamentary assistant http://www.telegraph.co.uk/news/uknews/8922399/Katia-Zatuliveter-the-girl-from-the-Caucasus-who-seduced-Mike-Hancock-only-knew-about-spying-from-the-movies.html"},"from":"elem-uabGk1pa","to":"elem-mxuWc05m"},{"_id":"conn-3qQxz14l","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-tVMVq3pK"},{"_id":"conn-48Iebsus","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-hCmwOaVd","to":"elem-FhY2m5wt"},{"_id":"conn-57Bea9ks","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"donor-recipient","description":"Arron Banks is one of the largest donors of UKIP."},"from":"elem-CM8bGFgZ","to":"elem-l2FGv89g"},{"_id":"conn-5eRTeLM8","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Foreign Policy advisor"},"from":"elem-KmlkQ9NX","to":"elem-CY6AbUt5"},{"_id":"conn-7M8OWjvS","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-csABj9Eo","to":"elem-Wv4jgeDP"},{"_id":"conn-7Tqm2uon","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-IfQnCDq4","to":"elem-ggEGurkE"},{"_id":"conn-7VkyUxwq","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KCzlC8PB","to":"elem-C3a1OK9b"},{"_id":"conn-7jWdhps5","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Family"},"from":"elem-l2FGv89g","to":"elem-Hyrfu499"},{"_id":"conn-7pCrR47j","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Campaign"},"from":"elem-9CWcrRyi","to":"elem-CY6AbUt5"},{"_id":"conn-7thzYHlO","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-n96CKH80","to":"elem-mUJA2XCr"},{"_id":"conn-8GIWX8wO","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-C9zYiSeC","to":"elem-CM8bGFgZ"},{"_id":"conn-8NqVKKZY","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KmlkQ9NX","to":"elem-csABj9Eo"},{"_id":"conn-90qHQ5JI","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3OM7wFmB","to":"elem-7vZvjNV9"},{"_id":"conn-913EODBL","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-TLGIoIJM","to":"elem-FYKqgwaL"},{"_id":"conn-94MFGx2Q","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ZKj72YhO","to":"elem-9CWcrRyi"},{"_id":"conn-9xYkgpwJ","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-HIETQFdM","to":"elem-O3SOvHnc"},{"_id":"conn-A2ra9Y3I","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-FbFw3tTG","to":"elem-C9zYiSeC"},{"_id":"conn-ATSwXHea","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-l2FGv89g","to":"elem-ZhHtHm56"},{"_id":"conn-BAhpLuTg","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CY6AbUt5","to":"elem-1NmMWj7P"},{"_id":"conn-BGcBJy4c","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Employment"},"from":"elem-iouUgjGh","to":"elem-nsgS5aUz"},{"_id":"conn-BXZaf5If","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Advisor","description":"https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"},"from":"elem-KmlkQ9NX","to":"elem-ZKj72YhO"},{"_id":"conn-Bf1FiPT9","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-a8tR3WTP","to":"elem-uabGk1pa"},{"_id":"conn-BrkWdU25","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-vPwfBs8I","to":"elem-8ShZfoVg"},{"_id":"conn-CVGG7Sxq","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Employment"},"from":"elem-Y4G3WoRO","to":"elem-C9zYiSeC"},{"_id":"conn-Cz5vzVKA","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3OM7wFmB","to":"elem-Y0GeFyTz"},{"_id":"conn-D5MB9jgO","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-wwXy6aSg","to":"elem-2lkD9vR8"},{"_id":"conn-DF5RsKPL","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-TsrRplNt","to":"elem-FYKqgwaL"},{"_id":"conn-DcRIIPjh","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-nsgS5aUz","to":"elem-CY6AbUt5"},{"_id":"conn-DujFGgK5","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-33ilX4rY","to":"elem-KAdRNyRw"},{"_id":"conn-Ero138CC","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-clnTGHhf","to":"elem-FbFw3tTG"},{"_id":"conn-EsYi9vP9","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-c4LSxQQt","to":"elem-GPZe2k46"},{"_id":"conn-EvfXB2wp","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership","description":"From 1994-2002 or 2004 https://companycheck.co.uk/company/02900377/FARAGE-FUTURES-LIMITED/companies-house-data"},"from":"elem-C9zYiSeC","to":"elem-6YuEoKGT"},{"_id":"conn-FDkxhbtT","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-dBvb6AMl","to":"elem-uabGk1pa"},{"_id":"conn-G0Kw93VP","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"NewsMedia"},"from":"elem-roXEhwds","to":"elem-c4uuaqgd"},{"_id":"conn-GMPc4JHK","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-cSayR9wq","to":"elem-WbUnatME"},{"_id":"conn-GSump4vH","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-eVsVrEEB","to":"elem-C3a1OK9b"},{"_id":"conn-GyQpWIxP","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"colleague"},"from":"elem-CY6AbUt5","to":"elem-y83fkwP2"},{"_id":"conn-HHtzqxp8","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-a8tR3WTP","to":"elem-msXfbbVb"},{"_id":"conn-HPaNNryB","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Family friends","description":"Netanyahu has been friends with the Kushner family. There's a story about how he slept in Jared Kushner's bed, while Kushner slept in the basement. https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?_r=0\nReuters article says Bibi implied he knew Jared since he was a baby http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA"},"from":"elem-lFM21wOr","to":"elem-HIETQFdM"},{"_id":"conn-HUpL241Z","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KmlkQ9NX","to":"elem-Mq6713Lr"},{"_id":"conn-HpbMqqK4","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-nkFF9OH6"},{"_id":"conn-Hygpg6Rq","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-lSp3oZK5"},{"_id":"conn-I8laIoGu","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-P1YEH2zy","to":"elem-x4N29yw1"},{"_id":"conn-IjMjAWyp","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KmlkQ9NX","to":"elem-WbUnatME"},{"_id":"conn-InAPUV6X","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Family"},"from":"elem-KAdRNyRw","to":"elem-4Khz9XY4"},{"_id":"conn-IzYAfTM3","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-y83fkwP2","to":"elem-Be7Qv22q"},{"_id":"conn-JsMTPfgf","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-4PWuvvxU","to":"elem-GKSnnYOl"},{"_id":"conn-JznLXl8O","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-msXfbbVb","to":"elem-FYKqgwaL"},{"_id":"conn-KTOfaOWD","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-XLcHxK0m","to":"elem-GeyU9HpH"},{"_id":"conn-Kj6VFeCM","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-1NmMWj7P","to":"elem-C3a1OK9b"},{"_id":"conn-M6FYBMK4","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-jhM1tJeM","to":"elem-O3SOvHnc"},{"_id":"conn-MaMg2ZdY","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KAdRNyRw","to":"elem-rzHF4iCk"},{"_id":"conn-McjNI82i","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CY6AbUt5","to":"elem-IfQnCDq4"},{"_id":"conn-MtM3HNo6","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CY6AbUt5","to":"elem-eVsVrEEB"},{"_id":"conn-NfzwPVce","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-x4N29yw1","to":"elem-KAdRNyRw"},{"_id":"conn-OaAUIyBC","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-cSayR9wq","to":"elem-cSDydFfK"},{"_id":"conn-OaDuBEpA","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"NewsMedia"},"from":"elem-roXEhwds","to":"elem-dYer3nPC"},{"_id":"conn-P0cUoJmN","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-c4LSxQQt","to":"elem-FYKqgwaL"},{"_id":"conn-PAybDtM3","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-QrEN0WW5","to":"elem-GeyU9HpH"},{"_id":"conn-PIl1i7YA","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Government"},"from":"elem-mxuWc05m","to":"elem-oZUpJiPN"},{"_id":"conn-Prx8WHbW","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-uCdrbakN","to":"elem-n96CKH80"},{"_id":"conn-PwSEPK1c","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Hyrfu499","to":"elem-dBvb6AMl"},{"_id":"conn-Q0uSDefp","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3m2zbCZC","to":"elem-GeyU9HpH"},{"_id":"conn-Qn38hkfw","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Subsidiary","description":"AIG Global Real Estate Investment Corp seems to be a subsidiary to AIG http://www.blankrome.com/index.cfm?contentID=43&itemID=151"},"from":"elem-sZFkYYyJ","to":"elem-QrEN0WW5"},{"_id":"conn-RGeu9Cjv","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-XLcHxK0m","to":"elem-O3SOvHnc"},{"_id":"conn-RQrYRvWC","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-FhY2m5wt","to":"elem-FYKqgwaL"},{"_id":"conn-TDKKgoY1","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-XLcHxK0m","to":"elem-3m2zbCZC"},{"_id":"conn-TU6aCU3P","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-4PWuvvxU","to":"elem-tuV1Icsy"},{"_id":"conn-Tdo1UZVZ","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Government"},"from":"elem-dBvb6AMl","to":"elem-mxuWc05m"},{"_id":"conn-UFZyHryP","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-tmQ2JR5j","to":"elem-B92mCCGw"},{"_id":"conn-UQe5swPp","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3OM7wFmB","to":"elem-KmlkQ9NX"},{"_id":"conn-W06fV29d","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-QrEN0WW5","to":"elem-XLcHxK0m"},{"_id":"conn-XGxcIqpU","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-cSDydFfK","to":"elem-WbUnatME"},{"_id":"conn-Y3Oghh1u","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Meeting","description":"https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"},"from":"elem-CY6AbUt5","to":"elem-EyzjS51Q"},{"_id":"conn-ZIVgiOVz","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership","description":"Arron Banks- Owns and voting rights for more than 25% but not more than 50% https://beta.companieshouse.gov.uk/company/00301930/persons-with-significant-control"},"from":"elem-rgR33z5G","to":"elem-l2FGv89g"},{"_id":"conn-a7mWTz65","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"spy","description":"According to this report: well placed sources told Sunday telegraph that Katya Zatuliveter was a 'talent spotter' for SVR http://www.telegraph.co.uk/news/worldnews/europe/russia/8196785/Russian-spy-Foreigners-who-worked-for-the-MP.html"},"from":"elem-uabGk1pa","to":"elem-v0ljULzN"},{"_id":"conn-afMrb7ZC","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-l2FGv89g","to":"elem-n96CKH80"},{"_id":"conn-asKSOrvc","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-T2pOjfpM","to":"elem-EyzjS51Q"},{"_id":"conn-bxY8SXKf","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Ware47gk","to":"elem-Y4G3WoRO"},{"_id":"conn-c9MLF9v9","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Met on march 9, 2017","description":"http://www.independent.co.uk/news/uk/politics/nigel-farage-julian-assange-ecuadorian-embassy-london-lbc-ukip-a7620921.html"},"from":"elem-C9zYiSeC","to":"elem-vPwfBs8I"},{"_id":"conn-cxkGIa8w","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-1yrs91R0","to":"elem-FYKqgwaL"},{"_id":"conn-dTMWGzSA","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-GCnPNiaM","to":"elem-ryKVhLrL"},{"_id":"conn-dzHbF8Ju","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-QoH0MfO4","to":"elem-33ilX4rY"},{"_id":"conn-eCeCoAa9","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Campaign manager"},"from":"elem-KmlkQ9NX","to":"elem-hJfFZXUI"},{"_id":"conn-fL0Khywb","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-TLGIoIJM","to":"elem-4PWuvvxU"},{"_id":"conn-flkNUJBt","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-jhM1tJeM","to":"elem-wRGVq8el"},{"_id":"conn-fnQ9l7ko","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ryKVhLrL","to":"elem-FYKqgwaL"},{"_id":"conn-fyDmqz6Z","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-GKSnnYOl","to":"elem-5ehSGEoP"},{"_id":"conn-gNvKNNeA","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Advisor","description":"Former political advisor https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/"},"from":"elem-dYer3nPC","to":"elem-M6e4WFhS"},{"_id":"conn-hSUmM5ut","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-B92mCCGw","to":"elem-NYIyCwFF"},{"_id":"conn-hyxKZU11","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ryKVhLrL","to":"elem-33ilX4rY"},{"_id":"conn-iEoiASZC","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KmlkQ9NX","to":"elem-ZBiFSWJ3"},{"_id":"conn-icg5tRYE","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CM8bGFgZ","to":"elem-tbcSDCJe"},{"_id":"conn-ik1yUrgB","direction":"undirected","delayed":false,"reversed":false,"attributes":{"description":"Expect UKIP to be integrated into the Tory party? http://fortune.com/2016/07/09/boris-johnson-nigel-farage-u-k-brexit/","connection type":"Political"},"from":"elem-qQwGHLFI","to":"elem-CM8bGFgZ"},{"_id":"conn-izTCzhjC","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-oGNTcdCL"},{"_id":"conn-jClt5SV8","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-YWtuRV4z","to":"elem-X20al1UI"},{"_id":"conn-jQSMVoY3","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-FbFw3tTG","to":"elem-6zYVDgaB"},{"_id":"conn-kAwGO2hV","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-2lkD9vR8","to":"elem-FYKqgwaL"},{"_id":"conn-kRSngbb6","direction":"undirected","delayed":false,"reversed":false,"attributes":{"description":"A meeting in 2015 set up between Pouyanné Putin and a Lebanese Billionaire, reported by Le Canard, which earned François Fillon 50k euros\nhttps://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"},"from":"elem-33ilX4rY","to":"elem-FYKqgwaL"},{"_id":"conn-koTa3pND","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-X20al1UI","to":"elem-clnTGHhf"},{"_id":"conn-lJHDQTZJ","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Government"},"from":"elem-M6e4WFhS","to":"elem-FYKqgwaL"},{"_id":"conn-lbnz5bun","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-C3a1OK9b","to":"elem-c4LSxQQt"},{"_id":"conn-lig0MMlH","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-NYIyCwFF","to":"elem-oZUpJiPN"},{"_id":"conn-meilFtRp","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Government"},"from":"elem-a8tR3WTP","to":"elem-FYKqgwaL"},{"_id":"conn-mn7UudUk","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-6zYVDgaB","to":"elem-X20al1UI"},{"_id":"conn-mr5FbT7G","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-qsuy7HUc","to":"elem-TLGIoIJM"},{"_id":"conn-mvdJMHB6","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"NewsMedia"},"from":"elem-roXEhwds","to":"elem-oZUpJiPN"},{"_id":"conn-nHZrKGvU","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Wv4jgeDP","to":"elem-FYKqgwaL"},{"_id":"conn-nSwOGjnV","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-c4uuaqgd","to":"elem-FYKqgwaL"},{"_id":"conn-nZx9gyKt","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Mq6713Lr","to":"elem-jhM1tJeM"},{"_id":"conn-nqkAe5S0","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-bLgLkpOO","to":"elem-FYKqgwaL"},{"_id":"conn-ntT3LowS","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-FhY2m5wt","to":"elem-Egr0LZZK"},{"_id":"conn-o1qJde5d","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ZBiFSWJ3","to":"elem-qsuy7HUc"},{"_id":"conn-oBsUnWiv","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-TLGIoIJM","to":"elem-lFM21wOr"},{"_id":"conn-oiozwBZh","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political"},"from":"elem-KAdRNyRw","to":"elem-P1YEH2zy"},{"_id":"conn-orxBUCEA","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3OM7wFmB","to":"elem-wwXy6aSg"},{"_id":"conn-p3i8drnT","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3m2zbCZC","to":"elem-QrEN0WW5"},{"_id":"conn-p596E8sv","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-uabGk1pa","to":"elem-tmQ2JR5j"},{"_id":"conn-pUE2KR8J","direction":"undirected","delayed":false,"reversed":false,"attributes":{"description":"Page impressed a friend with his relationships to Viktor Pinchuk in 2004, and landed the Merril Lynch job in Moscow. https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"},"from":"elem-CY6AbUt5","to":"elem-pPbRBW1d"},{"_id":"conn-qFd6Yq1q","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-l2FGv89g","to":"elem-YWtuRV4z"},{"_id":"conn-qm2RJDkZ","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-X20al1UI"},{"_id":"conn-qqtVr1Lh","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-C9zYiSeC","to":"elem-Ware47gk"},{"_id":"conn-r8BoIRwo","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-WbUnatME","to":"elem-3OM7wFmB"},{"_id":"conn-r9ohknzq","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-5ehSGEoP","to":"elem-C3a1OK9b"},{"_id":"conn-rJGFnGQ7","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-GPZe2k46","to":"elem-ITzyOV1T"},{"_id":"conn-rlcOzOmr","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KAdRNyRw","to":"elem-tODAZgGM"},{"_id":"conn-s5EljoH9","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-qQwGHLFI","to":"elem-C9zYiSeC"},{"_id":"conn-sAeRUmrB","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ITzyOV1T","to":"elem-KCzlC8PB"},{"_id":"conn-sCePCRFL","direction":"undirected","delayed":false,"reversed":false,"attributes":{"description":"Putin said that he has a very good personal relationship with Fillon. https://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"},"from":"elem-KAdRNyRw","to":"elem-FYKqgwaL"},{"_id":"conn-sZTCzAD2","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-rzHF4iCk","to":"elem-GCnPNiaM"},{"_id":"conn-sfJeVmXP","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ggEGurkE","to":"elem-CY6AbUt5"},{"_id":"conn-sm4X55d4","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Payment","description":"Centre of Political and Foreign Affairs paid Donald Trump Jr. $50k in Oct 2016 for a talk."},"from":"elem-cXsM5NQj","to":"elem-hCmwOaVd"},{"_id":"conn-tEZphoSr","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CM8bGFgZ","to":"elem-qQwGHLFI"},{"_id":"conn-tIQMrqNY","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-WbUnatME","to":"elem-3BSwsGfb"},{"_id":"conn-tb0ol13p","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-P0OBjFaI"},{"_id":"conn-tkWpJULU","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-1NmMWj7P","to":"elem-KCzlC8PB"},{"_id":"conn-u1iyaXho","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-oZUpJiPN","to":"elem-C9zYiSeC"},{"_id":"conn-uQYwkzLa","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KAdRNyRw","to":"elem-FhY2m5wt"},{"_id":"conn-ub8cLIsS","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-Ds62uvc3","to":"elem-TLGIoIJM"},{"_id":"conn-ueQpggIq","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Payment","description":"RT Paid Donald Trump for an interview with Larry King https://www.rt.com/usa/358794-trump-interview-larry-king/"},"from":"elem-KmlkQ9NX","to":"elem-glOqAaDZ"},{"_id":"conn-uxRYprYn","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-csABj9Eo","to":"elem-Ds62uvc3"},{"_id":"conn-vCfaT6kj","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-cS8wXixk"},{"_id":"conn-vRlwSCKT","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-lSp3oZK5","to":"elem-ghNdMmiZ"},{"_id":"conn-vbYnYemT","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-3OM7wFmB","to":"elem-cSayR9wq"},{"_id":"conn-vh4HqGSs","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-glOqAaDZ","to":"elem-FYKqgwaL"},{"_id":"conn-vkVMI3KT","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-mUJA2XCr","to":"elem-l2FGv89g"},{"_id":"conn-wGeqF6c1","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-KmlkQ9NX","to":"elem-iouUgjGh"},{"_id":"conn-wHbT1utD","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-uCdrbakN"},{"_id":"conn-wT0ozo80","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Meeting"},"from":"elem-CY6AbUt5","to":"elem-T2pOjfpM"},{"_id":"conn-xFtNvFrR","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-O3SOvHnc","to":"elem-wRGVq8el"},{"_id":"conn-xpyMuEjL","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Debt-Loan","description":"First Czech Russian Bank loaned marine Le Pen's party National Front 9.8M Euros according to Le Canard Enchaîné; Additionally, 30M euros for 2017 election http://www.telegraph.co.uk/news/2016/12/21/marine-le-pens-russian-links-us-scrutiny/"},"from":"elem-cSayR9wq","to":"elem-LlgYTNKb"},{"_id":"conn-xrGMAglK","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Ownership"},"from":"elem-X20al1UI","to":"elem-n96CKH80"},{"_id":"conn-yI0n1KEc","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-wRGVq8el","to":"elem-KmlkQ9NX"},{"_id":"conn-yJ1aCECc","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Family"},"from":"elem-KmlkQ9NX","to":"elem-cXsM5NQj"},{"_id":"conn-yLZN7U32","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-jhM1tJeM","to":"elem-FYKqgwaL"},{"_id":"conn-zHb5PeXm","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-l2FGv89g","to":"elem-clnTGHhf"},{"_id":"conn-zsGO6NmR","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-CM8bGFgZ","to":"elem-Muqb7I1t"},{"_id":"conn-zsowzsaA","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-X20al1UI","to":"elem-rgR33z5G"},{"_id":"conn-zzIlAiTW","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-ryKVhLrL","to":"elem-KAdRNyRw"},{"_id":"conn-M8kTgLLs","direction":"undirected","delayed":false,"reversed":false,"attributes":{},"from":"elem-tODAZgGM","to":"elem-lWN0vsUY"},{"_id":"conn-hc3NmrUe","direction":"undirected","delayed":false,"reversed":false,"attributes":{"connection type":"Political","description":"Sarkozy was Séguin's deputy"},"from":"elem-tODAZgGM","to":"elem-x4N29yw1"}],"loops":[],"maps":[{"_id":"map-xn8GwMya","name":"Tr2 (accidentally deleted the first)","description":"","scale":1,"center":{"x":0,"y":0},"defaultPerspective":"pers-Y9zui1Bi","elements":[{"_id":"node-0APjkW0k","position":null,"pinned":false,"element":"elem-dBvb6AMl"},{"_id":"node-14JIa4Qb","position":null,"pinned":false,"element":"elem-lFM21wOr"},{"_id":"node-1CjLh2J7","position":null,"pinned":false,"element":"elem-LlgYTNKb"},{"_id":"node-2XQ2GAUy","position":null,"pinned":false,"element":"elem-KmlkQ9NX"},{"_id":"node-3TnOaSOb","position":null,"pinned":false,"element":"elem-rgR33z5G"},{"_id":"node-3WYne78k","position":null,"pinned":false,"element":"elem-GPZe2k46"},{"_id":"node-58EGyzTO","position":null,"pinned":false,"element":"elem-rzHF4iCk"},{"_id":"node-5obp8hWx","position":null,"pinned":false,"element":"elem-CY6AbUt5"},{"_id":"node-6XCgxjnH","position":null,"pinned":false,"element":"elem-P1YEH2zy"},{"_id":"node-7C9RQXlF","position":null,"pinned":false,"element":"elem-uCdrbakN"},{"_id":"node-7GpYEZ6O","position":null,"pinned":false,"element":"elem-1NmMWj7P"},{"_id":"node-7WVJrHLN","position":null,"pinned":false,"element":"elem-v0ljULzN"},{"_id":"node-7btUhR1j","position":null,"pinned":false,"element":"elem-KAdRNyRw"},{"_id":"node-7d7GVY0L","position":null,"pinned":false,"element":"elem-y83fkwP2"},{"_id":"node-8YQhrrcc","position":null,"pinned":false,"element":"elem-clnTGHhf"},{"_id":"node-9DqPqssJ","position":null,"pinned":false,"element":"elem-XLcHxK0m"},{"_id":"node-9VRdLAAf","position":null,"pinned":false,"element":"elem-glOqAaDZ"},{"_id":"node-9gPehC6p","position":null,"pinned":false,"element":"elem-6YuEoKGT"},{"_id":"node-9nCLfgB0","position":null,"pinned":false,"element":"elem-tODAZgGM"},{"_id":"node-AI3dCMQj","position":null,"pinned":false,"element":"elem-2lkD9vR8"},{"_id":"node-AjIxNYNR","position":null,"pinned":false,"element":"elem-tmQ2JR5j"},{"_id":"node-AqntuKty","position":null,"pinned":false,"element":"elem-YWtuRV4z"},{"_id":"node-BSbjgcyg","position":null,"pinned":false,"element":"elem-IfQnCDq4"},{"_id":"node-BnkBGdDf","position":{"x":1470.3862545798904,"y":629.1219473364895},"pinned":false,"element":"elem-a8tR3WTP"},{"_id":"node-CbJ3Ftib","position":null,"pinned":false,"element":"elem-Be7Qv22q"},{"_id":"node-CbwaFYTA","position":null,"pinned":false,"element":"elem-cS8wXixk"},{"_id":"node-EHA8JhW5","position":null,"pinned":false,"element":"elem-NYIyCwFF"},{"_id":"node-EOS10uiZ","position":null,"pinned":false,"element":"elem-7vZvjNV9"},{"_id":"node-FCGK0hEI","position":null,"pinned":false,"element":"elem-cSDydFfK"},{"_id":"node-FLoVKPnI","position":null,"pinned":false,"element":"elem-QoH0MfO4"},{"_id":"node-G2DCBEnF","position":null,"pinned":false,"element":"elem-P0OBjFaI"},{"_id":"node-GArgp5Aa","position":null,"pinned":false,"element":"elem-EyzjS51Q"},{"_id":"node-HccUBJlu","position":null,"pinned":false,"element":"elem-hCmwOaVd"},{"_id":"node-HkXvN8Do","position":null,"pinned":false,"element":"elem-3BSwsGfb"},{"_id":"node-Jbi78xNe","position":null,"pinned":false,"element":"elem-wRGVq8el"},{"_id":"node-JhdkAIBc","position":null,"pinned":false,"element":"elem-X20al1UI"},{"_id":"node-K3T7TV9p","position":null,"pinned":false,"element":"elem-cXsM5NQj"},{"_id":"node-KECIo9TQ","position":null,"pinned":false,"element":"elem-Mq6713Lr"},{"_id":"node-KaVOceyd","position":null,"pinned":false,"element":"elem-TsrRplNt"},{"_id":"node-LaPC5V0W","position":null,"pinned":false,"element":"elem-tuV1Icsy"},{"_id":"node-LeAOuHFB","position":null,"pinned":false,"element":"elem-uabGk1pa"},{"_id":"node-MBekJrAN","position":null,"pinned":false,"element":"elem-nkFF9OH6"},{"_id":"node-MHpyVUex","position":null,"pinned":false,"element":"elem-WbUnatME"},{"_id":"node-MXh5CtXA","position":null,"pinned":false,"element":"elem-FbFw3tTG"},{"_id":"node-NZ1xJHhJ","position":null,"pinned":false,"element":"elem-mUJA2XCr"},{"_id":"node-NhhaVYaM","position":null,"pinned":false,"element":"elem-tbcSDCJe"},{"_id":"node-OIAcxWlY","position":null,"pinned":false,"element":"elem-1yrs91R0"},{"_id":"node-OZ0rH3oD","position":null,"pinned":false,"element":"elem-5ehSGEoP"},{"_id":"node-OdaEtuvn","position":null,"pinned":false,"element":"elem-C3a1OK9b"},{"_id":"node-Oxt711B2","position":null,"pinned":false,"element":"elem-bLgLkpOO"},{"_id":"node-PVpslEOj","position":null,"pinned":false,"element":"elem-ryKVhLrL"},{"_id":"node-PebxXR1j","position":null,"pinned":false,"element":"elem-3m2zbCZC"},{"_id":"node-QIcFduQ1","position":null,"pinned":false,"element":"elem-6zYVDgaB"},{"_id":"node-SfQy9TOl","position":null,"pinned":false,"element":"elem-GCnPNiaM"},{"_id":"node-SlXKqQ5m","position":null,"pinned":false,"element":"elem-c4uuaqgd"},{"_id":"node-T1dRZVC0","position":null,"pinned":false,"element":"elem-Wv4jgeDP"},{"_id":"node-TFyzC1Ux","position":null,"pinned":false,"element":"elem-pPbRBW1d"},{"_id":"node-TVEpDg53","position":{"x":-549.3431695377658,"y":-221.743751901092},"pinned":false,"element":"elem-xhg1BxnY"},{"_id":"node-TWEHjZI5","position":null,"pinned":false,"element":"elem-l2FGv89g"},{"_id":"node-TZgE01ts","position":null,"pinned":false,"element":"elem-9CWcrRyi"},{"_id":"node-UtY4yQYt","position":null,"pinned":false,"element":"elem-tVMVq3pK"},{"_id":"node-V4jOvB2G","position":null,"pinned":false,"element":"elem-eVsVrEEB"},{"_id":"node-VEioWslv","position":null,"pinned":false,"element":"elem-nsgS5aUz"},{"_id":"node-Ve2zVml5","position":null,"pinned":false,"element":"elem-ZBiFSWJ3"},{"_id":"node-WgUBXFcR","position":null,"pinned":false,"element":"elem-dYer3nPC"},{"_id":"node-YO97fURB","position":null,"pinned":false,"element":"elem-qsuy7HUc"},{"_id":"node-ZkueGjLv","position":null,"pinned":false,"element":"elem-CM8bGFgZ"},{"_id":"node-aMfm7sDC","position":null,"pinned":false,"element":"elem-HIETQFdM"},{"_id":"node-alRAAWIT","position":null,"pinned":false,"element":"elem-mxuWc05m"},{"_id":"node-bH5K9XWR","position":null,"pinned":false,"element":"elem-iouUgjGh"},{"_id":"node-bKFVyd8H","position":null,"pinned":false,"element":"elem-3OM7wFmB"},{"_id":"node-bpZeF0N5","position":null,"pinned":false,"element":"elem-qQwGHLFI"},{"_id":"node-dYpY7DZy","position":null,"pinned":false,"element":"elem-O3SOvHnc"},{"_id":"node-dhB7GqTL","position":null,"pinned":false,"element":"elem-KCzlC8PB"},{"_id":"node-ey1eUkPS","position":null,"pinned":false,"element":"elem-oGNTcdCL"},{"_id":"node-f7MmVL8m","position":null,"pinned":false,"element":"elem-33ilX4rY"},{"_id":"node-gO2xfFkV","position":null,"pinned":false,"element":"elem-GeyU9HpH"},{"_id":"node-hoVE82nU","position":null,"pinned":false,"element":"elem-hJfFZXUI"},{"_id":"node-hzAabsft","position":null,"pinned":false,"element":"elem-msXfbbVb"},{"_id":"node-j4HOYHOd","position":null,"pinned":false,"element":"elem-8ShZfoVg"},{"_id":"node-jbWTWr38","position":null,"pinned":false,"element":"elem-6OQQGFnp"},{"_id":"node-jeGG21Nl","position":null,"pinned":false,"element":"elem-lSp3oZK5"},{"_id":"node-k53H7aeJ","position":null,"pinned":false,"element":"elem-ggEGurkE"},{"_id":"node-kTMnGbqw","position":null,"pinned":false,"element":"elem-FhY2m5wt"},{"_id":"node-n2XScjod","position":null,"pinned":false,"element":"elem-B92mCCGw"},{"_id":"node-nG2rhsQH","position":null,"pinned":false,"element":"elem-wwXy6aSg"},{"_id":"node-o5OH3uFU","position":null,"pinned":false,"element":"elem-M6e4WFhS"},{"_id":"node-p4obEdLQ","position":null,"pinned":false,"element":"elem-c4LSxQQt"},{"_id":"node-pjjbHVSe","position":null,"pinned":false,"element":"elem-Ds62uvc3"},{"_id":"node-psHv6Yip","position":null,"pinned":false,"element":"elem-Egr0LZZK"},{"_id":"node-pt5I98dU","position":null,"pinned":false,"element":"elem-FYKqgwaL"},{"_id":"node-qAIX8Rbl","position":{"x":-1516.9754756681702,"y":-169.0582760169617},"pinned":false,"element":"elem-roXEhwds"},{"_id":"node-r99kSNgG","position":null,"pinned":false,"element":"elem-cSayR9wq"},{"_id":"node-rERT84R2","position":null,"pinned":false,"element":"elem-ZKj72YhO"},{"_id":"node-rksydkKR","position":null,"pinned":false,"element":"elem-C9zYiSeC"},{"_id":"node-scftr1Bc","position":null,"pinned":false,"element":"elem-Y4G3WoRO"},{"_id":"node-t3x6xU1c","position":null,"pinned":false,"element":"elem-QrEN0WW5"},{"_id":"node-td7dFI9a","position":null,"pinned":false,"element":"elem-jhM1tJeM"},{"_id":"node-tmZ4RVJx","position":null,"pinned":false,"element":"elem-ZhHtHm56"},{"_id":"node-uSjnKLVJ","position":null,"pinned":false,"element":"elem-Hyrfu499"},{"_id":"node-ueF97vyi","position":null,"pinned":false,"element":"elem-Muqb7I1t"},{"_id":"node-uklUOUQp","position":null,"pinned":false,"element":"elem-x4N29yw1"},{"_id":"node-uxKrWZv0","position":null,"pinned":false,"element":"elem-n96CKH80"},{"_id":"node-vQMpPilb","position":null,"pinned":false,"element":"elem-oZUpJiPN"},{"_id":"node-vmop5KuA","position":null,"pinned":false,"element":"elem-vPwfBs8I"},{"_id":"node-vryCpEj7","position":null,"pinned":false,"element":"elem-GKSnnYOl"},{"_id":"node-wS2CXVYe","position":null,"pinned":false,"element":"elem-4PWuvvxU"},{"_id":"node-wWlhRBYl","position":null,"pinned":false,"element":"elem-csABj9Eo"},{"_id":"node-wfqnCYCY","position":null,"pinned":false,"element":"elem-4Khz9XY4"},{"_id":"node-wohr6Jiy","position":null,"pinned":false,"element":"elem-ITzyOV1T"},{"_id":"node-wy8N6cOQ","position":null,"pinned":false,"element":"elem-TLGIoIJM"},{"_id":"node-xcLMeoCE","position":null,"pinned":false,"element":"elem-T2pOjfpM"},{"_id":"node-yKIc5YZr","position":null,"pinned":false,"element":"elem-sZFkYYyJ"},{"_id":"node-zooOkS3j","position":null,"pinned":false,"element":"elem-ghNdMmiZ"},{"_id":"node-C9AmVXV5","position":null,"pinned":false,"element":"elem-lWN0vsUY"}],"connections":[{"_id":"edge-0Ri97lpb","connection":"conn-tIQMrqNY"},{"_id":"edge-1B4EIgbq","connection":"conn-lbnz5bun"},{"_id":"edge-1Y34cpkL","connection":"conn-13Y1fhKT"},{"_id":"edge-2sOPXRdA","connection":"conn-yI0n1KEc"},{"_id":"edge-3VJ8eTbB","connection":"conn-sZTCzAD2"},{"_id":"edge-3h7HmkmS","connection":"conn-qm2RJDkZ"},{"_id":"edge-3wNzseTa","connection":"conn-CVGG7Sxq"},{"_id":"edge-49b1fWSJ","connection":"conn-ik1yUrgB"},{"_id":"edge-4kYxOO3z","connection":"conn-2h23NRCz"},{"_id":"edge-5276afKf","connection":"conn-A2ra9Y3I"},{"_id":"edge-5aXav6pT","connection":"conn-zsowzsaA"},{"_id":"edge-68P5Ejk8","connection":"conn-BAhpLuTg"},{"_id":"edge-6eYIQbWy","connection":"conn-5eRTeLM8"},{"_id":"edge-7L8lxfuM","connection":"conn-nHZrKGvU"},{"_id":"edge-7rGckL3Z","connection":"conn-913EODBL"},{"_id":"edge-8MTKCCp0","connection":"conn-JsMTPfgf"},{"_id":"edge-8YQp4wTb","connection":"conn-3SLCHU22"},{"_id":"edge-8gArLm1Q","connection":"conn-94MFGx2Q"},{"_id":"edge-8vAyHG2v","connection":"conn-7Tqm2uon"},{"_id":"edge-9nsSnbcn","connection":"conn-0xvt0VbM"},{"_id":"edge-A43w3JFG","connection":"conn-eCeCoAa9"},{"_id":"edge-Bl3LQhva","connection":"conn-ATSwXHea"},{"_id":"edge-C3blmbYX","connection":"conn-cxkGIa8w"},{"_id":"edge-C41QMmrd","connection":"conn-flkNUJBt"},{"_id":"edge-CEHeeEK0","connection":"conn-yJ1aCECc"},{"_id":"edge-CZ9Us96p","connection":"conn-GSump4vH"},{"_id":"edge-CfPNMXov","connection":"conn-PIl1i7YA"},{"_id":"edge-Cyyl5Bpk","connection":"conn-I8laIoGu"},{"_id":"edge-CzdQkKTm","connection":"conn-uxRYprYn"},{"_id":"edge-CzsjK4ZK","connection":"conn-7VkyUxwq"},{"_id":"edge-CzstAg6h","connection":"conn-48Iebsus"},{"_id":"edge-DEdFhtPx","connection":"conn-UQe5swPp"},{"_id":"edge-DbvTt8zY","connection":"conn-Hygpg6Rq"},{"_id":"edge-DsxgwUrR","connection":"conn-DF5RsKPL"},{"_id":"edge-DwhaoBdc","connection":"conn-ntT3LowS"},{"_id":"edge-E6MrxQyJ","connection":"conn-fL0Khywb"},{"_id":"edge-EBPnqlxQ","connection":"conn-Ero138CC"},{"_id":"edge-Ez38bndI","connection":"conn-XGxcIqpU"},{"_id":"edge-FJgI9vt6","connection":"conn-7pCrR47j"},{"_id":"edge-FaQkPt3k","connection":"conn-M6FYBMK4"},{"_id":"edge-GfXa9tIe","connection":"conn-TDKKgoY1"},{"_id":"edge-H3luGLN7","connection":"conn-vbYnYemT"},{"_id":"edge-HJEIdZfh","connection":"conn-OaDuBEpA"},{"_id":"edge-HRKTFgZC","connection":"conn-tb0ol13p"},{"_id":"edge-I4uXLPEf","connection":"conn-8GIWX8wO"},{"_id":"edge-IJWcrCSn","connection":"conn-zzIlAiTW"},{"_id":"edge-IiQIcWB2","connection":"conn-Prx8WHbW"},{"_id":"edge-JE9h7w1r","connection":"conn-31dSixqL"},{"_id":"edge-JGBIGkXH","connection":"conn-7M8OWjvS"},{"_id":"edge-JykztXqX","connection":"conn-sm4X55d4"},{"_id":"edge-KcmcNHES","connection":"conn-BrkWdU25"},{"_id":"edge-KexVe7kP","connection":"conn-lig0MMlH"},{"_id":"edge-KkfPcVvf","connection":"conn-HUpL241Z"},{"_id":"edge-Ky2hBcm5","connection":"conn-Kj6VFeCM"},{"_id":"edge-LuQE7xVH","connection":"conn-Bf1FiPT9"},{"_id":"edge-MJVukYJE","connection":"conn-Tdo1UZVZ"},{"_id":"edge-N01QSosE","connection":"conn-oBsUnWiv"},{"_id":"edge-N8jookwm","connection":"conn-hyxKZU11"},{"_id":"edge-OTDlyS6e","connection":"conn-HHtzqxp8"},{"_id":"edge-OTgM9PB6","connection":"conn-dTMWGzSA"},{"_id":"edge-OdjY0LdB","connection":"conn-ub8cLIsS"},{"_id":"edge-P8GmUnq2","connection":"conn-KTOfaOWD"},{"_id":"edge-PE1emlkW","connection":"conn-DujFGgK5"},{"_id":"edge-PZxwDlxf","connection":"conn-mn7UudUk"},{"_id":"edge-PsfIDIqu","connection":"conn-EsYi9vP9"},{"_id":"edge-QQ3erThn","connection":"conn-izTCzhjC"},{"_id":"edge-QbZgmXg5","connection":"conn-wHbT1utD"},{"_id":"edge-Ql6RvnX5","connection":"conn-xpyMuEjL"},{"_id":"edge-QuFJBhVW","connection":"conn-jClt5SV8"},{"_id":"edge-R3wXAxxB","connection":"conn-PwSEPK1c"},{"_id":"edge-R6kR4GhV","connection":"conn-D5MB9jgO"},{"_id":"edge-RJtgJ7hp","connection":"conn-c9MLF9v9"},{"_id":"edge-RNLY1TNt","connection":"conn-vh4HqGSs"},{"_id":"edge-Rg61zMIQ","connection":"conn-MtM3HNo6"},{"_id":"edge-SGlhr8aP","connection":"conn-qFd6Yq1q"},{"_id":"edge-SMwqU0lx","connection":"conn-orxBUCEA"},{"_id":"edge-Sr3gfYT4","connection":"conn-BXZaf5If"},{"_id":"edge-TRbDJQuG","connection":"conn-mvdJMHB6"},{"_id":"edge-UR6xl5dF","connection":"conn-a7mWTz65"},{"_id":"edge-UVidll4T","connection":"conn-FDkxhbtT"},{"_id":"edge-UjZtdiFr","connection":"conn-GMPc4JHK"},{"_id":"edge-VBTVVjOD","connection":"conn-TU6aCU3P"},{"_id":"edge-VI4lrqHJ","connection":"conn-jQSMVoY3"},{"_id":"edge-Vgj6CrGG","connection":"conn-lJHDQTZJ"},{"_id":"edge-WFUKoOBy","connection":"conn-PAybDtM3"},{"_id":"edge-Wsm7CINa","connection":"conn-BGcBJy4c"},{"_id":"edge-XLF0laxz","connection":"conn-vkVMI3KT"},{"_id":"edge-Y5ziDyUo","connection":"conn-ZIVgiOVz"},{"_id":"edge-YMegnpY1","connection":"conn-HPaNNryB"},{"_id":"edge-YSuTc6d8","connection":"conn-2zI4jBAS"},{"_id":"edge-YUqHjW76","connection":"conn-fnQ9l7ko"},{"_id":"edge-YXoNc7We","connection":"conn-ueQpggIq"},{"_id":"edge-YanJu5lL","connection":"conn-rJGFnGQ7"},{"_id":"edge-Ybw6bHKQ","connection":"conn-zsGO6NmR"},{"_id":"edge-ZBauoQVr","connection":"conn-kRSngbb6"},{"_id":"edge-ZFy3KLrZ","connection":"conn-W06fV29d"},{"_id":"edge-ZIa5rgXC","connection":"conn-9xYkgpwJ"},{"_id":"edge-ZTlU6mWI","connection":"conn-G0Kw93VP"},{"_id":"edge-a2EgGaLU","connection":"conn-yLZN7U32"},{"_id":"edge-aziXCzVI","connection":"conn-8NqVKKZY"},{"_id":"edge-c1d0PjhL","connection":"conn-gNvKNNeA"},{"_id":"edge-cMbCW8d7","connection":"conn-kAwGO2hV"},{"_id":"edge-cd9OgOSK","connection":"conn-HpbMqqK4"},{"_id":"edge-d9HNHjIP","connection":"conn-pUE2KR8J"},{"_id":"edge-dDWY2hEh","connection":"conn-iEoiASZC"},{"_id":"edge-datWUwbF","connection":"conn-rlcOzOmr"},{"_id":"edge-dlutB8s6","connection":"conn-7jWdhps5"},{"_id":"edge-dpwTkS1A","connection":"conn-IzYAfTM3"},{"_id":"edge-e4VJIpCQ","connection":"conn-1rafxozb"},{"_id":"edge-eIxpMolw","connection":"conn-OaAUIyBC"},{"_id":"edge-ePcTM6ir","connection":"conn-3qQxz14l"},{"_id":"edge-eUdEv5k8","connection":"conn-uQYwkzLa"},{"_id":"edge-f8lIy1tJ","connection":"conn-nSwOGjnV"},{"_id":"edge-fdpAgNK7","connection":"conn-o1qJde5d"},{"_id":"edge-gtmUr48Y","connection":"conn-57Bea9ks"},{"_id":"edge-hEcSC3Cp","connection":"conn-u1iyaXho"},{"_id":"edge-hFa2BZdH","connection":"conn-tkWpJULU"},{"_id":"edge-hiXIco1w","connection":"conn-sCePCRFL"},{"_id":"edge-hkfAQqCM","connection":"conn-oiozwBZh"},{"_id":"edge-hzKCyBbA","connection":"conn-1I19RoJM"},{"_id":"edge-iJKXNKE2","connection":"conn-McjNI82i"},{"_id":"edge-iLJsElJA","connection":"conn-Q0uSDefp"},{"_id":"edge-iRXkfAFx","connection":"conn-JznLXl8O"},{"_id":"edge-ihmh8Pdu","connection":"conn-P0cUoJmN"},{"_id":"edge-iqLmRyNa","connection":"conn-xrGMAglK"},{"_id":"edge-jCAXVb7a","connection":"conn-r9ohknzq"},{"_id":"edge-jh0HH1ek","connection":"conn-2HKaDzX5"},{"_id":"edge-l5c75MlH","connection":"conn-nqkAe5S0"},{"_id":"edge-liNcE9sw","connection":"conn-p596E8sv"},{"_id":"edge-ll9M6llR","connection":"conn-p3i8drnT"},{"_id":"edge-loCTfa5t","connection":"conn-DcRIIPjh"},{"_id":"edge-m5dFrPQY","connection":"conn-90qHQ5JI"},{"_id":"edge-mFKzuZGg","connection":"conn-dzHbF8Ju"},{"_id":"edge-mTfIUogt","connection":"conn-MaMg2ZdY"},{"_id":"edge-mnnoYJXL","connection":"conn-asKSOrvc"},{"_id":"edge-nS8ANPHu","connection":"conn-2bSwMr1L"},{"_id":"edge-p1BW2tDo","connection":"conn-UFZyHryP"},{"_id":"edge-p4DqLvcE","connection":"conn-xFtNvFrR"},{"_id":"edge-pSehEhcw","connection":"conn-RGeu9Cjv"},{"_id":"edge-pcI08sR8","connection":"conn-RQrYRvWC"},{"_id":"edge-pnxY4IRT","connection":"conn-r8BoIRwo"},{"_id":"edge-qCgi4334","connection":"conn-vRlwSCKT"},{"_id":"edge-qJbE2qjI","connection":"conn-7thzYHlO"},{"_id":"edge-qLfxG1l1","connection":"conn-hSUmM5ut"},{"_id":"edge-qS79WiTC","connection":"conn-vCfaT6kj"},{"_id":"edge-qd8678Iv","connection":"conn-GyQpWIxP"},{"_id":"edge-rB0etMUP","connection":"conn-EvfXB2wp"},{"_id":"edge-rWbJnaDi","connection":"conn-s5EljoH9"},{"_id":"edge-s8TuYO0k","connection":"conn-Qn38hkfw"},{"_id":"edge-sLdq3k44","connection":"conn-afMrb7ZC"},{"_id":"edge-sP0qHsgG","connection":"conn-NfzwPVce"},{"_id":"edge-t38iwim6","connection":"conn-IjMjAWyp"},{"_id":"edge-v0nl4HAv","connection":"conn-koTa3pND"},{"_id":"edge-vJdRNLPX","connection":"conn-Y3Oghh1u"},{"_id":"edge-w8Msagk3","connection":"conn-nZx9gyKt"},{"_id":"edge-wCOU2Voq","connection":"conn-sAeRUmrB"},{"_id":"edge-wG4GfDdu","connection":"conn-sfJeVmXP"},{"_id":"edge-wWizi6fr","connection":"conn-wGeqF6c1"},{"_id":"edge-x6ICr5tJ","connection":"conn-icg5tRYE"},{"_id":"edge-x8Rtz8ky","connection":"conn-mr5FbT7G"},{"_id":"edge-xFogzHfY","connection":"conn-fyDmqz6Z"},{"_id":"edge-xKOoqiG1","connection":"conn-3f5RPRZL"},{"_id":"edge-yc7t5BHl","connection":"conn-InAPUV6X"},{"_id":"edge-zgu0Kj8u","connection":"conn-zHb5PeXm"},{"_id":"edge-h95b0b1k","connection":"conn-M8kTgLLs"},{"_id":"edge-yDOPxIHF","connection":"conn-hc3NmrUe"}],"loops":[]}],"perspectives":[{"_id":"pers-Y9zui1Bi","name":"Tr2 (accidentally deleted the first)","style":"@settings {\n  template: sna;\n  element-size: 11;\n  font-color: #fff1a2;\n  font-size: 41;\n}\n\n/* France */\nelement[\"tags\"=\"France\"] {\n  color: #3eaba0;\n}\n\n/* American with Russian Ties */\nelement[\"tags\"=\"American with Russian Ties\"] {\n  color: #fd7234;\n}\n\n/* Russia */\nelement[\"tags\"=\"Russia\"] {\n  color: #776db3;\n}\n\n/* Italy */\nelement[\"tags\"=\"Italy\"] {\n  color: #82bbdb;\n}\n\n/* UK */\nelement[\"tags\"=\"UK\"] {\n  color: #cf9236;\n}\n\n"}]}
+{
+	"name": "Eowyn-EU-Trump-Putin1",
+	"description": "",
+	"proxyImages": true,
+	"defaultMap": "map-eoeutrpu",
+	"defaultPerspective": null,
+	"attributeRelevance": {},
+	"attributes": [{
+		"_id": "attr-QA3hjsB6",
+		"name": "Connection Type",
+		"format": "string",
+		"private": false,
+		"limit": 1,
+		"category": "General",
+		"prompt": "list",
+		"locked": false,
+		"values": []
+	}, {
+		"_id": "attr-zW15Rr88",
+		"name": "Description",
+		"format": "text",
+		"private": false,
+		"limit": 1,
+		"category": "General",
+		"prompt": "none",
+		"locked": false,
+		"values": []
+	}, {
+		"_id": "attr-ChDKpCHw",
+		"name": "Element Type",
+		"format": "string",
+		"private": false,
+		"limit": 1,
+		"category": "General",
+		"prompt": "list",
+		"locked": false,
+		"values": ["person", "Bank", "Consortium/Company", "Company", "Organization", "Political Party", "Gas Deposits", "Portfolio", "Offshore company", "Mine", "Newspaper-Media", "Oligarch", "Place", "Government"]
+	}, {
+		"_id": "attr-Eskk8BoO",
+		"name": "Label",
+		"format": "string",
+		"private": false,
+		"limit": 1,
+		"category": "General",
+		"prompt": "autocomplete",
+		"locked": false,
+		"values": []
+	}, {
+		"_id": "attr-XiBTjap5",
+		"name": "Loop Type",
+		"format": "string",
+		"private": false,
+		"limit": 1,
+		"category": "General",
+		"prompt": "list",
+		"locked": false,
+		"values": []
+	}, {
+		"_id": "attr-H4jjWX3V",
+		"name": "Tags",
+		"format": "string",
+		"private": false,
+		"limit": "none",
+		"category": "General",
+		"prompt": "autocomplete",
+		"locked": false,
+		"values": []
+	}],
+	"elements": [{
+		"_id": "elem-1NmMWj7P",
+		"attributes": {
+			"label": "Sakhalin II Project",
+			"element type": "Consortium/Company",
+			"description": "Oil exploration and mining project in Sakhalin island of Russia.",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-1yrs91R0",
+		"attributes": {
+			"label": "Sergey Lavrov",
+			"element type": "person",
+			"description": "RU Government. Russian Foreign Minister",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-2lkD9vR8",
+		"attributes": {
+			"label": "Sylvio Berlusconi",
+			"element type": "person",
+			"description": "Erstwhile PM of Italy. Putin's personal friend.",
+			"tags": ["Italy"]
+		}
+	}, {
+		"_id": "elem-33ilX4rY",
+		"attributes": {
+			"label": "Patrick Pouyanné",
+			"element type": "person",
+			"description": "CEO of Total SA",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-3BSwsGfb",
+		"attributes": {
+			"label": "Alain Vizier",
+			"element type": "person",
+			"description": "Marine Le Pen's Spokesperson",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-3OM7wFmB",
+		"attributes": {
+			"label": "George G Lombardi",
+			"element type": "person",
+			"description": "Businessman. Liason between Italian far right parties Northern League and Forza Italia. https://www.nytimes.com/2017/01/13/world/europe/marine-le-pen-trump.html?_r=0.\n\nForza Italia is Berlusconi's party!",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-3m2zbCZC",
+		"attributes": {
+			"label": "Westminster Management",
+			"element type": "Portfolio",
+			"description": "\"Portfolio consists of 16,784 units in four states—New Jersey, Pennsylvania, Delaware, and New York—with the largest concentration of apartments in southern New Jersey and Philadelphia.\" http://www.blankrome.com/index.cfm?contentID=43&itemID=151"
+		}
+	}, {
+		"_id": "elem-4Khz9XY4",
+		"attributes": {
+			"label": "Penelope Fillon",
+			"element type": "person",
+			"description": "Held a fake cushy job  aka Penelopegate- http://www.cbc.ca/news/world/france-socialist-party-presidential-primary-benoit-hamon-1.3957452",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-4PWuvvxU",
+		"attributes": {
+			"label": "International Petroleum Investment Co (IPIC)",
+			"element type": "Company",
+			"description": "Abu Dhabi based Oil and Gas company. Owns 24.9% stake in Austrain oil and gas co, OMV, which it seems to have sold to Gazprom in 2014\nThis would give gazprom a greater control over South Stream pipeline into Austria. Not sure if the deal was done. http://www.reuters.com/article/austria-omv-idUSL6N0P73A720140626",
+			"tags": ["Austria", "AbuDhabi"]
+		}
+	}, {
+		"_id": "elem-5ehSGEoP",
+		"attributes": {
+			"label": "Glencore International Plc",
+			"element type": "Company",
+			"description": "In 2011 Aabar Investments PJS confirmed an investment of $850 Million in Glencore, bringing it's investment to $1B. https://web.archive.org/web/20110820035605/http://www.aabar.com/attachments/AABAR%20PRESS%20RELEASE%20-%20GLENCORE%20(final).pdf"
+		}
+	}, {
+		"_id": "elem-6OQQGFnp",
+		"attributes": {
+			"label": "Farage Ltd",
+			"element type": "Company",
+			"description": "Founded by Nigel Farage in 2003 with his brother Daniel Gillespie, another metals trader https://www.ft.com/content/02cad03a-844f-11e4-bae9-00144feabdc0\nThis company is now insolvent https://beta.companieshouse.gov.uk/company/04659240/officers"
+		}
+	}, {
+		"_id": "elem-6YuEoKGT",
+		"attributes": {
+			"label": "Farage Futures",
+			"element type": "Company",
+			"description": "Commodities brokerage firm started by Nigel Farage in 1994. This was a small company that helped clients broker orders on the exchange. (I'm assuming exchange here means London Metals Exchange or LME) Accounts available until 2002 https://companycheck.co.uk/company/02900377/FARAGE-FUTURES-LIMITED/companies-house-data",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-6zYVDgaB",
+		"attributes": {
+			"label": "Better for the Country Ltd",
+			"element type": "Company",
+			"description": "Company that ran Leave EU, and is now a part owner in Westmonster along with Nigel Heaver. https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-7vZvjNV9",
+		"attributes": {
+			"label": "Northern League",
+			"element type": "Political Party",
+			"description": "Italy's far right political party",
+			"tags": ["Italy"]
+		}
+	}, {
+		"_id": "elem-8ShZfoVg",
+		"attributes": {
+			"label": "Wikileaks",
+			"element type": "Organization"
+		}
+	}, {
+		"_id": "elem-9CWcrRyi",
+		"attributes": {
+			"label": "Cory Lewandowski",
+			"element type": "person",
+			"description": "One of Trump's former Campaign advisors. He claims that he did not know Cater Page, but a few other Trump campaign officials claim he was the conduit for Carter Page. http://dailycaller.com/2017/04/13/heres-who-introduced-carter-page-to-the-trump-campaign/"
+		}
+	}, {
+		"_id": "elem-B92mCCGw",
+		"attributes": {
+			"label": "MI5",
+			"element type": "Government",
+			"description": "UK Spy agency",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-Be7Qv22q",
+		"attributes": {
+			"label": "RAO UES",
+			"element type": "Company",
+			"description": "Giant Electric company in Russia. Now ceased to exit after the reorganization and restructuring of the massive privatization of the electrical company. https://en.wikipedia.org/wiki/RAO_UES#cite_note-3https://www.ft.com/content/48368024-3c3c-11db-9c97-0000779e2340",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-C3a1OK9b",
+		"attributes": {
+			"label": "Rosneft",
+			"element type": "Company",
+			"description": "Russian Oil company",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-C9zYiSeC",
+		"attributes": {
+			"label": "Nigel Farage",
+			"element type": "person",
+			"description": "A prominent player in UK Brexit. A member of the UKIP party",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-CM8bGFgZ",
+		"attributes": {
+			"label": "UKIP",
+			"element type": "Political Party",
+			"description": "UK's political party that is pro Brexit",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-CY6AbUt5",
+		"attributes": {
+			"label": "Carter Page",
+			"element type": "person",
+			"description": "Ex Pentagon. Worked in Russia. \nClaims to be part owner of Global Energy Partners. nicknamed Stranichkin or little page by https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview\nhttp://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-Ds62uvc3",
+		"attributes": {
+			"label": "NordSteam II Project",
+			"element type": "Consortium/Company",
+			"description": "belongs to Gazprom",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-Egr0LZZK",
+		"attributes": {
+			"label": "Randa Kassis",
+			"element type": "person",
+			"description": "Fabien Baussart's wife of Syrian origin. Socialite. Supposedly an anthropologist and a journalist. A personal Friend to Russian foreign Minister Sergey Lavrov",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-EyzjS51Q",
+		"attributes": {
+			"label": "Hadi Al Alawai",
+			"element type": "person",
+			"description": "Bahrain, owner of Al Hayat Group. Has a picture with Carter Page"
+		}
+	}, {
+		"_id": "elem-FYKqgwaL",
+		"attributes": {
+			"label": "Vladimir Putin",
+			"element type": "person",
+			"description": "President of RU",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-FbFw3tTG",
+		"attributes": {
+			"label": "Leave EU Campaign",
+			"element type": "Organization",
+			"description": "Arron Banks bankrolled campaign for Brexit and leave EU. This campaign was backed by Nigel Farage. https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-FhY2m5wt",
+		"attributes": {
+			"label": "Fabien Baussart",
+			"element type": "person",
+			"description": "Pro-Russian French philanthropist. Nominated Putin for Nobel Peace Prize.",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-GCnPNiaM",
+		"attributes": {
+			"label": "Future Pipe Industries Group Ltd",
+			"element type": "Company",
+			"description": "Dubai based company that paid 2F to set up a meeting between Lebanese Billonaire Fouad Makhzoumi, Putin and Pouyanné at an economic conference in St Petersburg, in 2015. The contract also states that Fillon would assist Makhzoumi to connect with others in Russia and other countries. https://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"
+		}
+	}, {
+		"_id": "elem-GKSnnYOl",
+		"attributes": {
+			"label": "Aabar Investments",
+			"element type": "Company",
+			"description": "Apparently, a holding co for IPIC assets, including OMV stake. https://en.wikipedia.org/wiki/Aabar_Investments\n\nThis may not be relevant in this network",
+			"tags": ["AbuDhabi"]
+		}
+	}, {
+		"_id": "elem-GPZe2k46",
+		"attributes": {
+			"label": "Rex Tillerson",
+			"element type": "person",
+			"description": "ExxonMobil chief. Now divested and Secretary of state in the US govt",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-GeyU9HpH",
+		"attributes": {
+			"label": "Morgan Properties"
+		}
+	}, {
+		"_id": "elem-HIETQFdM",
+		"attributes": {
+			"label": "Benjamin Netanyahu",
+			"element type": "person",
+			"description": "Israel's PM. Agreement with Putin in 2015 to develop the Leviathan Gas Fields, per wiki",
+			"tags": ["Israel"]
+		}
+	}, {
+		"_id": "elem-Hyrfu499",
+		"attributes": {
+			"label": "Ekaterina Paderina",
+			"element type": "person",
+			"description": "Russian Wife of Arron Banks. Hancock intervened when she ran into 'issues'",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-ITzyOV1T",
+		"attributes": {
+			"label": "ExxonMobil",
+			"element type": "Company",
+			"description": "US Oil company",
+			"tags": ["American", "American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-IfQnCDq4",
+		"attributes": {
+			"label": "Sergei Yatsenko",
+			"element type": "person",
+			"description": "Former manager at Gazprom. formed Global Energy Partners with Carter Page",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-IrlRHtpL",
+		"attributes": {
+			"label": "University of St Petersburg"
+		}
+	}, {
+		"_id": "elem-KAdRNyRw",
+		"attributes": {
+			"label": "François Fillon",
+			"element type": "person",
+			"description": "French Politician from another far right party of Republicans",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-KCzlC8PB",
+		"attributes": {
+			"label": "ExxonNeftGas",
+			"element type": "Consortium/Company",
+			"description": "A consortium to mine oil in Sakhalin I project and other projects",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-KmlkQ9NX",
+		"attributes": {
+			"label": "Donald Trump",
+			"element type": "person",
+			"description": "President of US",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-LlgYTNKb",
+		"attributes": {
+			"label": "First Czech Russian Bank",
+			"element type": "Bank",
+			"description": "A now defunct Russian bank that loaned 1 million euros to National Front in 2014. https://www.nytimes.com/2016/10/04/world/europe/french-conservatives-sarkozy-putin-russia.html?_r=0",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-M6e4WFhS",
+		"attributes": {
+			"label": "Vyacheslav Volodin",
+			"element type": "person",
+			"description": "Putin's chief of staff",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-Mq6713Lr",
+		"attributes": {
+			"label": "JD Gordon",
+			"element type": "person",
+			"description": "Trump Advisor"
+		}
+	}, {
+		"_id": "elem-Muqb7I1t",
+		"attributes": {
+			"label": "Demetris Marchessini",
+			"element type": "person",
+			"description": "Another of UKIP's bankrollers from Greece; Anti LGBT, pro Russian Orthodoxy https://www.channel4.com/news/ukip-donor-donations-demetri-marchessini-views-politics",
+			"tags": ["Greece"]
+		}
+	}, {
+		"_id": "elem-NYIyCwFF",
+		"attributes": {
+			"label": "UK Government",
+			"element type": "Government",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-O3SOvHnc",
+		"attributes": {
+			"label": "Jared Kushner",
+			"element type": "person",
+			"description": "Trump's son-in-law. White house Senior Advisor, Married to Ivanka Trump. Met with Kislyak in Dec. 2016.",
+			"tags": ["American with Chinese Ties", "American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-P0OBjFaI",
+		"attributes": {
+			"label": "Former De Beers Mine in Kimberly",
+			"element type": "Mine",
+			"tags": ["Africa"]
+		}
+	}, {
+		"_id": "elem-P1YEH2zy",
+		"attributes": {
+			"label": "Les Republicains",
+			"element type": "Political Party",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-QoH0MfO4",
+		"attributes": {
+			"label": "Total S.A",
+			"element type": "Company",
+			"description": "Oil and Gas company",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-QrEN0WW5",
+		"attributes": {
+			"label": "AIG Global Real Estate Investment Corp",
+			"element type": "Company",
+			"description": "Rea Estate company, subsidiary of AIG?"
+		}
+	}, {
+		"_id": "elem-T2pOjfpM",
+		"attributes": {
+			"label": "Al Hayat Group",
+			"element type": "Consortium/Company",
+			"description": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=217238153"
+		}
+	}, {
+		"_id": "elem-TLGIoIJM",
+		"attributes": {
+			"label": "Gazprom",
+			"element type": "Company",
+			"description": "Russian State Oil Company",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-TsrRplNt",
+		"attributes": {
+			"label": "Igor Divyekin",
+			"element type": "person",
+			"description": "Internal Affairs/Intelligence head in RU government",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-Ware47gk",
+		"attributes": {
+			"label": "Michael Milken",
+			"element type": "person",
+			"description": "The US Junk bond king who was at the center if Drexel's collapse in 1990s. Milken was indicted for securities fraud, racketeering and other charges, H pleaded guilty in 1989 http://www.nytimes.com/1992/08/06/business/milken-s-sentence-reduced-by-judge-7-months-are-left.html?pagewanted=all&src=pm"
+		}
+	}, {
+		"_id": "elem-WbUnatME",
+		"attributes": {
+			"label": "Marine Le Pen",
+			"element type": "person",
+			"description": "french politician on the far-right party National Front. Jean Marie Le Pen's daughter. Was seen at Trump Tower NYC (Donald Trump's residence). Claimed she did not meet Trump and was on a 'private trip'.https://www.nytimes.com/2017/01/13/world/europe/marine-le-pen-trump.html?_r=0",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-Wv4jgeDP",
+		"attributes": {
+			"label": "Alfa Bank",
+			"element type": "Bank",
+			"description": "Russian bank controlled by Mikhail Fridman, Pyotr Aven and German Khan",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-X20al1UI",
+		"attributes": {
+			"label": "Elizabeth Bilney",
+			"element type": "person",
+			"description": "A person that appears in a lot of Arron banks companies. Listed as a beneficiary of PRI Holdings",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-XLcHxK0m",
+		"attributes": {
+			"label": "Kushner Companies",
+			"element type": "Company",
+			"description": "Kushner's family companies now run by Jared Kushner"
+		}
+	}, {
+		"_id": "elem-Y0GeFyTz",
+		"attributes": {
+			"label": "North Atlantic League"
+		}
+	}, {
+		"_id": "elem-Y4G3WoRO",
+		"attributes": {
+			"label": "Drexel Burnham Lambert",
+			"element type": "Company",
+			"description": "Maclaine Watson, a traditional commodities brokerage  taken over by Drexel Burnham Lambert in 1982, just before Nigel Farage entered. https://www.ft.com/content/02cad03a-844f-11e4-bae9-00144feabdc0",
+			"tags": ["American"]
+		}
+	}, {
+		"_id": "elem-YWtuRV4z",
+		"attributes": {
+			"label": "Blue Steel Enterprises",
+			"element type": "Company"
+		}
+	}, {
+		"_id": "elem-ZBiFSWJ3",
+		"attributes": {
+			"label": "Michael Caputo",
+			"element type": "person",
+			"description": "Trump Advisor",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-ZKj72YhO",
+		"attributes": {
+			"label": "Sam Clovis",
+			"element type": "person",
+			"description": "Trump campaign policy Director; Senior White House advisor for US Department of Agriculture. A former professor and a talk show host. Supposed to have introduced Carter Page to the Trump campaign via Corey Lewandowski. http://dailycaller.com/2017/04/13/heres-who-introduced-carter-page-to-the-trump-campaign/",
+			"tags": ["American"]
+		}
+	}, {
+		"_id": "elem-ZhHtHm56",
+		"attributes": {
+			"label": "Rock E-Systems Ltd",
+			"element type": "Company",
+			"description": "There's an application to strike this company off the register.  Given address is Lysander House, Catbrain Lane, Cribbs Causeway, Bristol, England, BS10 7TQ. Person's with significant control- Arron Fraser Andrew banks https://beta.companieshouse.gov.uk/company/07816122/persons-with-significant-control",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-a8tR3WTP",
+		"attributes": {
+			"label": "RT",
+			"element type": "Newspaper-Media",
+			"description": "News media Propaganda outlet for Russia.",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-bLgLkpOO",
+		"attributes": {
+			"label": "Viktor Yanukovich",
+			"element type": "person",
+			"description": "Ousted President of Ukraine. Putin's Puppet",
+			"tags": ["Ukraine"]
+		}
+	}, {
+		"_id": "elem-c4LSxQQt",
+		"attributes": {
+			"label": "Igor Sechin",
+			"element type": "person",
+			"description": "Head of Rosneft\nhead of Sivolaki, the military division of RU Govt.",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-c4uuaqgd",
+		"attributes": {
+			"label": "Oxana Braznik",
+			"element type": "person",
+			"description": "'Journalist' with close ties to Putin https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-cS8wXixk",
+		"attributes": {
+			"label": "African Compass Trading Co.",
+			"element type": "Company",
+			"description": "South African company with Aron banks serving as Director and Secretary under two differently given names– Arron Banks, Secretary; Arron Andrew Fraser banks– Director. https://beta.companieshouse.gov.uk/company/08264663/officers; https://beta.companieshouse.gov.uk/officers/C25RppC7mG2U80F078OdJGvWieM/appointments; https://beta.companieshouse.gov.uk/officers/w_j5UgiMOqPoibHkYO9N90Ax4kc/appointments",
+			"tags": ["Panama"]
+		}
+	}, {
+		"_id": "elem-cSDydFfK",
+		"attributes": {
+			"label": "Denis Francekin",
+			"element type": "person",
+			"description": "US and Canada Director for National Front",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-cSayR9wq",
+		"attributes": {
+			"label": "Front National Or National Front",
+			"element type": "Political Party",
+			"description": "Marine Le Pen's (France's) far right political party",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-cXsM5NQj",
+		"attributes": {
+			"label": "Donald Trump Jr",
+			"element type": "person",
+			"description": "Son of Donald Trump, US President. He was paid $50k in Oct 2016 by Centre for Political and Foreign Affairs",
+			"tags": ["American", "American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-clnTGHhf",
+		"attributes": {
+			"label": "Leave.EU Group",
+			"element type": "Consortium/Company",
+			"description": "Group created for Brexit in 2014?",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-csABj9Eo",
+		"attributes": {
+			"label": "Richard Burt",
+			"element type": "person",
+			"description": "Pro Putin Speech writer",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-dBvb6AMl",
+		"attributes": {
+			"label": "Mike Hancock",
+			"element type": "person",
+			"description": "Former Lib. Dem Mp, Disgraced. He tried to help Ekaterina Paderina from deportation in 1990.",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-dYer3nPC",
+		"attributes": {
+			"label": "Johanna Ross",
+			"element type": "person",
+			"description": "'Journalist' - former Political Advisor to Putin's Chief of Staff Vyacheslav Volodin; he is under EU sanctions list. https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/",
+			"tags": ["UK", "Russia"]
+		}
+	}, {
+		"_id": "elem-eVsVrEEB",
+		"attributes": {
+			"label": "Mikhail Leontiev",
+			"element type": "person",
+			"description": "Talking head of Rosneft",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-ggEGurkE",
+		"attributes": {
+			"label": "Global Energy Capital",
+			"element type": "Company",
+			"description": "Supposedly an oil exploration company/energy investment company\nhttp://globalenergycap.com/company/",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-ghNdMmiZ",
+		"attributes": {
+			"label": "Nigel Heaver",
+			"element type": "person",
+			"description": "Editor and co-owner of Westmonster. Former press advisor to Nigel Farage",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-glOqAaDZ",
+		"attributes": {
+			"label": "RT (US Division)",
+			"element type": "Organization",
+			"description": "Russia Today. Russian media organization. Trump gave an interview there",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-hCmwOaVd",
+		"attributes": {
+			"label": "Center for Political and Foreign Affairs",
+			"element type": "Organization",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-hJfFZXUI",
+		"attributes": {
+			"label": "Paul Manafort",
+			"element type": "person",
+			"description": "Long ties to Firtash, a Ukrainian billionaire, pro-Putin oligarch. \nTies to Oleg Deripaska, tof RUSAL and EN+ group. Spat with Deripaska over Black Sea Cable investments",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-iouUgjGh",
+		"attributes": {
+			"label": "Jeff Sessions",
+			"element type": "person",
+			"description": "Attorney General of US appointed by Trump. Met with Kisliyak",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-jhM1tJeM",
+		"attributes": {
+			"label": "Sergei Kislyak",
+			"element type": "person",
+			"description": "Russian Ambassador to US",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-l2FGv89g",
+		"attributes": {
+			"label": "Arron Banks",
+			"element type": "person",
+			"description": "(B)Millionaire. One of UKIP's prominent funders.",
+			"tags": ["UK", "Russia"]
+		}
+	}, {
+		"_id": "elem-lFM21wOr",
+		"attributes": {
+			"label": "Leviathan gas Fields",
+			"element type": "Gas Deposits",
+			"description": "These oil/gas fields are close to Israel/Cyprus",
+			"tags": ["Israel"]
+		}
+	}, {
+		"_id": "elem-lSp3oZK5",
+		"attributes": {
+			"label": "Westmonster",
+			"element type": "Newspaper-Media",
+			"description": "A Brietbart-style media site.https://www.theguardian.com/media/2017/jan/19/arron-banks-launches-breitbart-style-site-westmonster",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-mUJA2XCr",
+		"attributes": {
+			"label": "Africa Strategic Resources Ltd",
+			"element type": "Offshore company",
+			"description": "Arron Banks Company listed in Panama papers  https://offshoreleaks.icij.org/nodes/10156416",
+			"tags": ["Panama", "UK"]
+		}
+	}, {
+		"_id": "elem-msXfbbVb",
+		"attributes": {
+			"label": "RU Government",
+			"element type": "Government",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-mxuWc05m",
+		"attributes": {
+			"label": "Parliament",
+			"element type": "Government",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-n96CKH80",
+		"attributes": {
+			"label": "PRI Holdings",
+			"element type": "Offshore company",
+			"description": "Arron Banks holding company listed in the Panama papers.  https://offshoreleaks.icij.org/nodes/10156416",
+			"tags": ["UK", "Panama"]
+		}
+	}, {
+		"_id": "elem-nkFF9OH6",
+		"attributes": {
+			"label": "Rocks Ltd",
+			"element type": "Company"
+		}
+	}, {
+		"_id": "elem-nsgS5aUz",
+		"attributes": {
+			"label": "Rick Dearborn",
+			"element type": "person",
+			"description": "Sessions's Chief of Staff; Supposed to have introduced Carter Page to Trump campaign http://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283",
+			"tags": ["American", "American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-oGNTcdCL",
+		"attributes": {
+			"label": "Mining rights in Lesotho",
+			"element type": "Mine",
+			"tags": ["Africa"]
+		}
+	}, {
+		"_id": "elem-oZUpJiPN",
+		"attributes": {
+			"label": "United Kingdom",
+			"element type": "Place",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-pPbRBW1d",
+		"attributes": {
+			"label": "Viktor Pinchuk",
+			"element type": "Oligarch",
+			"description": "Ukrainian Oligarch",
+			"tags": ["Ukraine"]
+		}
+	}, {
+		"_id": "elem-qQwGHLFI",
+		"attributes": {
+			"label": "Boris Johnson",
+			"element type": "person",
+			"description": "UK Politicial. Tory who, along with Farage propounded the leave EU or Brexit.",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-qsuy7HUc",
+		"attributes": {
+			"label": "Gazprom media",
+			"element type": "Company",
+			"description": "Media company belonging to the state oil company Gazprom",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-rgR33z5G",
+		"attributes": {
+			"label": "Parson's Jewellers Ltd",
+			"element type": "Company",
+			"description": "One of the oldest jewellery companies. Now closed. http://www.dailymail.co.uk/news/article-2549422/Oldest-jewellery-shop-Britain-100-000-engagement-rings-close-300-years-no-one-wants-buy-it.html.\nHas multiple charges against it. https://beta.companieshouse.gov.uk/company/00301930/charges",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-roXEhwds",
+		"attributes": {
+			"label": "Sputnik, UK Office",
+			"element type": "Newspaper-Media",
+			"description": "Russian news media, an effective propaganda arm of Russian news. https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/",
+			"tags": ["UK", "Russia"]
+		}
+	}, {
+		"_id": "elem-ryKVhLrL",
+		"attributes": {
+			"label": "Fouad Makhzoumi",
+			"element type": "person",
+			"description": "Head of Future Pipe Industries Group Ltd, based in Dubai"
+		}
+	}, {
+		"_id": "elem-rzHF4iCk",
+		"attributes": {
+			"label": "2F",
+			"element type": "Company",
+			"description": "Fillon's advisory firm"
+		}
+	}, {
+		"_id": "elem-sZFkYYyJ",
+		"attributes": {
+			"label": "AIG",
+			"element type": "Company",
+			"description": "American International Group which is now owned by Aabar Investments",
+			"tags": ["American"]
+		}
+	}, {
+		"_id": "elem-tODAZgGM",
+		"attributes": {
+			"label": "Phillip Séguin",
+			"element type": "person",
+			"description": "mentor to Fillon. Source Wiki. Died on  7 January 2010 from a heart attack. (wikipedia) http://www.lemonde.fr/disparitions/",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-tVMVq3pK",
+		"attributes": {
+			"label": "Vavista Ltd",
+			"element type": "Company",
+			"description": "A company with registered address in Bristol. Lists Arron Andrew Fraser Banks as the director. https://beta.companieshouse.gov.uk/company/08267083/officers; https://beta.companieshouse.gov.uk/officers/C25RppC7mG2U80F078OdJGvWieM/appointments",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-tbcSDCJe",
+		"attributes": {
+			"label": "Paul Sykes",
+			"element type": "person",
+			"description": "No 1 donor for UKIP and Brexit. Moved back to Tories?",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-tmQ2JR5j",
+		"attributes": {
+			"label": "Oleg Gordievsky",
+			"element type": "person",
+			"description": "Russian double agent during 1970s, now in UK"
+		}
+	}, {
+		"_id": "elem-tuV1Icsy",
+		"attributes": {
+			"label": "OMV",
+			"element type": "Company",
+			"description": "Austrian oil and has company. Connected with South stream pipeline. 24.9% stake is owned by IPIC http://www.reuters.com/article/austria-omv-idUSL6N0P73A720140626",
+			"tags": ["Austria"]
+		}
+	}, {
+		"_id": "elem-uCdrbakN",
+		"attributes": {
+			"label": "Jacobus Lodewick Coetzee",
+			"element type": "person",
+			"description": "Who appears, along with Elizabeth Bilney, as person connected with Banks's many companies. Listed as a beneficiary of PRI Holdings",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-uabGk1pa",
+		"attributes": {
+			"label": "Katya Zatuliveter",
+			"element type": "person",
+			"description": "Mike Hancock's girlfriend MI5 flagged as a Russian spy! https://www.the-american-interest.com/2016/07/26/who-funded-brexit/\nhttp://www.dailymail.co.uk/news/article-2052827/Katia-Zatuliveter-best-KGB-agent-30-years-claims-colonel.html",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-v0ljULzN",
+		"attributes": {
+			"label": "Russian Foreign Secret Service SVR",
+			"element type": "Government",
+			"description": "SVE Russia's secret service part of FSB/GRU",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-vPwfBs8I",
+		"attributes": {
+			"label": "Julian Assange",
+			"element type": "person"
+		}
+	}, {
+		"_id": "elem-wRGVq8el",
+		"attributes": {
+			"label": "Michael Flynn",
+			"element type": "person",
+			"description": "Resigned as Trump's National Security Advisor amid furor of Russian connections. Met  Kislyak  in Dec., 2016. Additional meetings previously. Called Kislyak Dec 29, 2016.",
+			"tags": ["American with Russian Ties"]
+		}
+	}, {
+		"_id": "elem-wwXy6aSg",
+		"attributes": {
+			"label": "Forza Italia",
+			"element type": "Political Party",
+			"description": "Italy's far right political party",
+			"tags": ["Italy"]
+		}
+	}, {
+		"_id": "elem-x4N29yw1",
+		"attributes": {
+			"label": "Nicolas Sarkozy",
+			"element type": "person",
+			"description": "earlier President of France",
+			"tags": ["France"]
+		}
+	}, {
+		"_id": "elem-xhg1BxnY",
+		"attributes": {
+			"label": "Diana James",
+			"element type": "person",
+			"description": "UKIP's pro-Putin leader who replaced the pro-Putin Farage in Sep, 2016 https://www.theguardian.com/politics/2016/sep/18/new-ukip-leader-says-she-counts-vladimir-putin-as-a-political-hero",
+			"tags": ["UK"]
+		}
+	}, {
+		"_id": "elem-y83fkwP2",
+		"attributes": {
+			"label": "Artem Torchinsky",
+			"element type": "person",
+			"description": "Torchinsky worked along with Carter Page during the break up of RAO UES in Merryl Lynch's Moscow Office. http://www.politico.com/magazine/story/2016/09/the-mystery-of-trumps-man-in-moscow-214283",
+			"tags": ["Russia"]
+		}
+	}, {
+		"_id": "elem-lWN0vsUY",
+		"attributes": {
+			"label": "RPR (Neo-Gaullist) Party",
+			"element type": "Political Party",
+			"tags": ["France"]
+		}
+	}],
+	"connections": [{
+		"_id": "conn-0xvt0VbM",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-TsrRplNt"
+	}, {
+		"_id": "conn-13Y1fhKT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-xhg1BxnY",
+		"to": "elem-CM8bGFgZ"
+	}, {
+		"_id": "conn-1I19RoJM",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-ghNdMmiZ",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-1rafxozb",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Egr0LZZK",
+		"to": "elem-1yrs91R0"
+	}, {
+		"_id": "conn-2HKaDzX5",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-hJfFZXUI",
+		"to": "elem-bLgLkpOO"
+	}, {
+		"_id": "conn-2bSwMr1L",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-NYIyCwFF",
+		"to": "elem-mxuWc05m"
+	}, {
+		"_id": "conn-2h23NRCz",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-GKSnnYOl",
+		"to": "elem-sZFkYYyJ"
+	}, {
+		"_id": "conn-2zI4jBAS",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-6zYVDgaB",
+		"to": "elem-lSp3oZK5"
+	}, {
+		"_id": "conn-31dSixqL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-C9zYiSeC",
+		"to": "elem-6OQQGFnp"
+	}, {
+		"_id": "conn-3Kn3u8Jp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-uabGk1pa",
+		"to": "elem-IrlRHtpL"
+	}, {
+		"_id": "conn-3SLCHU22",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-3f5RPRZL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Employment",
+			"description": "According to this report katya Zatuliveter worked in the UK parliament as a parliamentary assistant http://www.telegraph.co.uk/news/uknews/8922399/Katia-Zatuliveter-the-girl-from-the-Caucasus-who-seduced-Mike-Hancock-only-knew-about-spying-from-the-movies.html"
+		},
+		"from": "elem-uabGk1pa",
+		"to": "elem-mxuWc05m"
+	}, {
+		"_id": "conn-3qQxz14l",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-tVMVq3pK"
+	}, {
+		"_id": "conn-48Iebsus",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-hCmwOaVd",
+		"to": "elem-FhY2m5wt"
+	}, {
+		"_id": "conn-57Bea9ks",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "donor-recipient",
+			"description": "Arron Banks is one of the largest donors of UKIP."
+		},
+		"from": "elem-CM8bGFgZ",
+		"to": "elem-l2FGv89g"
+	}, {
+		"_id": "conn-5eRTeLM8",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Foreign Policy advisor"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-CY6AbUt5"
+	}, {
+		"_id": "conn-7M8OWjvS",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-csABj9Eo",
+		"to": "elem-Wv4jgeDP"
+	}, {
+		"_id": "conn-7Tqm2uon",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-IfQnCDq4",
+		"to": "elem-ggEGurkE"
+	}, {
+		"_id": "conn-7VkyUxwq",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KCzlC8PB",
+		"to": "elem-C3a1OK9b"
+	}, {
+		"_id": "conn-7jWdhps5",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Family"
+		},
+		"from": "elem-l2FGv89g",
+		"to": "elem-Hyrfu499"
+	}, {
+		"_id": "conn-7pCrR47j",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Campaign"
+		},
+		"from": "elem-9CWcrRyi",
+		"to": "elem-CY6AbUt5"
+	}, {
+		"_id": "conn-7thzYHlO",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-n96CKH80",
+		"to": "elem-mUJA2XCr"
+	}, {
+		"_id": "conn-8GIWX8wO",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-C9zYiSeC",
+		"to": "elem-CM8bGFgZ"
+	}, {
+		"_id": "conn-8NqVKKZY",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-csABj9Eo"
+	}, {
+		"_id": "conn-90qHQ5JI",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3OM7wFmB",
+		"to": "elem-7vZvjNV9"
+	}, {
+		"_id": "conn-913EODBL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-TLGIoIJM",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-94MFGx2Q",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ZKj72YhO",
+		"to": "elem-9CWcrRyi"
+	}, {
+		"_id": "conn-9xYkgpwJ",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-HIETQFdM",
+		"to": "elem-O3SOvHnc"
+	}, {
+		"_id": "conn-A2ra9Y3I",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-FbFw3tTG",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-ATSwXHea",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-l2FGv89g",
+		"to": "elem-ZhHtHm56"
+	}, {
+		"_id": "conn-BAhpLuTg",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-1NmMWj7P"
+	}, {
+		"_id": "conn-BGcBJy4c",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Employment"
+		},
+		"from": "elem-iouUgjGh",
+		"to": "elem-nsgS5aUz"
+	}, {
+		"_id": "conn-BXZaf5If",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Advisor",
+			"description": "https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-ZKj72YhO"
+	}, {
+		"_id": "conn-Bf1FiPT9",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-a8tR3WTP",
+		"to": "elem-uabGk1pa"
+	}, {
+		"_id": "conn-BrkWdU25",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-vPwfBs8I",
+		"to": "elem-8ShZfoVg"
+	}, {
+		"_id": "conn-CVGG7Sxq",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Employment"
+		},
+		"from": "elem-Y4G3WoRO",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-Cz5vzVKA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3OM7wFmB",
+		"to": "elem-Y0GeFyTz"
+	}, {
+		"_id": "conn-D5MB9jgO",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-wwXy6aSg",
+		"to": "elem-2lkD9vR8"
+	}, {
+		"_id": "conn-DF5RsKPL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-TsrRplNt",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-DcRIIPjh",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-nsgS5aUz",
+		"to": "elem-CY6AbUt5"
+	}, {
+		"_id": "conn-DujFGgK5",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-33ilX4rY",
+		"to": "elem-KAdRNyRw"
+	}, {
+		"_id": "conn-Ero138CC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-clnTGHhf",
+		"to": "elem-FbFw3tTG"
+	}, {
+		"_id": "conn-EsYi9vP9",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-c4LSxQQt",
+		"to": "elem-GPZe2k46"
+	}, {
+		"_id": "conn-EvfXB2wp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership",
+			"description": "From 1994-2002 or 2004 https://companycheck.co.uk/company/02900377/FARAGE-FUTURES-LIMITED/companies-house-data"
+		},
+		"from": "elem-C9zYiSeC",
+		"to": "elem-6YuEoKGT"
+	}, {
+		"_id": "conn-FDkxhbtT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-dBvb6AMl",
+		"to": "elem-uabGk1pa"
+	}, {
+		"_id": "conn-G0Kw93VP",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "NewsMedia"
+		},
+		"from": "elem-roXEhwds",
+		"to": "elem-c4uuaqgd"
+	}, {
+		"_id": "conn-GMPc4JHK",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-cSayR9wq",
+		"to": "elem-WbUnatME"
+	}, {
+		"_id": "conn-GSump4vH",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-eVsVrEEB",
+		"to": "elem-C3a1OK9b"
+	}, {
+		"_id": "conn-GyQpWIxP",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "colleague"
+		},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-y83fkwP2"
+	}, {
+		"_id": "conn-HHtzqxp8",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-a8tR3WTP",
+		"to": "elem-msXfbbVb"
+	}, {
+		"_id": "conn-HPaNNryB",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Family friends",
+			"description": "Netanyahu has been friends with the Kushner family. There's a story about how he slept in Jared Kushner's bed, while Kushner slept in the basement. https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?_r=0\nReuters article says Bibi implied he knew Jared since he was a baby http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA"
+		},
+		"from": "elem-lFM21wOr",
+		"to": "elem-HIETQFdM"
+	}, {
+		"_id": "conn-HUpL241Z",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-Mq6713Lr"
+	}, {
+		"_id": "conn-HpbMqqK4",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-nkFF9OH6"
+	}, {
+		"_id": "conn-Hygpg6Rq",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-lSp3oZK5"
+	}, {
+		"_id": "conn-I8laIoGu",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-P1YEH2zy",
+		"to": "elem-x4N29yw1"
+	}, {
+		"_id": "conn-IjMjAWyp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-WbUnatME"
+	}, {
+		"_id": "conn-InAPUV6X",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Family"
+		},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-4Khz9XY4"
+	}, {
+		"_id": "conn-IzYAfTM3",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-y83fkwP2",
+		"to": "elem-Be7Qv22q"
+	}, {
+		"_id": "conn-JsMTPfgf",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-4PWuvvxU",
+		"to": "elem-GKSnnYOl"
+	}, {
+		"_id": "conn-JznLXl8O",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-msXfbbVb",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-KTOfaOWD",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-XLcHxK0m",
+		"to": "elem-GeyU9HpH"
+	}, {
+		"_id": "conn-Kj6VFeCM",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-1NmMWj7P",
+		"to": "elem-C3a1OK9b"
+	}, {
+		"_id": "conn-M6FYBMK4",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-jhM1tJeM",
+		"to": "elem-O3SOvHnc"
+	}, {
+		"_id": "conn-MaMg2ZdY",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-rzHF4iCk"
+	}, {
+		"_id": "conn-McjNI82i",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-IfQnCDq4"
+	}, {
+		"_id": "conn-MtM3HNo6",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-eVsVrEEB"
+	}, {
+		"_id": "conn-NfzwPVce",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-x4N29yw1",
+		"to": "elem-KAdRNyRw"
+	}, {
+		"_id": "conn-OaAUIyBC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-cSayR9wq",
+		"to": "elem-cSDydFfK"
+	}, {
+		"_id": "conn-OaDuBEpA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "NewsMedia"
+		},
+		"from": "elem-roXEhwds",
+		"to": "elem-dYer3nPC"
+	}, {
+		"_id": "conn-P0cUoJmN",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-c4LSxQQt",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-PAybDtM3",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-QrEN0WW5",
+		"to": "elem-GeyU9HpH"
+	}, {
+		"_id": "conn-PIl1i7YA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Government"
+		},
+		"from": "elem-mxuWc05m",
+		"to": "elem-oZUpJiPN"
+	}, {
+		"_id": "conn-Prx8WHbW",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-uCdrbakN",
+		"to": "elem-n96CKH80"
+	}, {
+		"_id": "conn-PwSEPK1c",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Hyrfu499",
+		"to": "elem-dBvb6AMl"
+	}, {
+		"_id": "conn-Q0uSDefp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3m2zbCZC",
+		"to": "elem-GeyU9HpH"
+	}, {
+		"_id": "conn-Qn38hkfw",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Subsidiary",
+			"description": "AIG Global Real Estate Investment Corp seems to be a subsidiary to AIG http://www.blankrome.com/index.cfm?contentID=43&itemID=151"
+		},
+		"from": "elem-sZFkYYyJ",
+		"to": "elem-QrEN0WW5"
+	}, {
+		"_id": "conn-RGeu9Cjv",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-XLcHxK0m",
+		"to": "elem-O3SOvHnc"
+	}, {
+		"_id": "conn-RQrYRvWC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-FhY2m5wt",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-TDKKgoY1",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-XLcHxK0m",
+		"to": "elem-3m2zbCZC"
+	}, {
+		"_id": "conn-TU6aCU3P",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-4PWuvvxU",
+		"to": "elem-tuV1Icsy"
+	}, {
+		"_id": "conn-Tdo1UZVZ",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Government"
+		},
+		"from": "elem-dBvb6AMl",
+		"to": "elem-mxuWc05m"
+	}, {
+		"_id": "conn-UFZyHryP",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-tmQ2JR5j",
+		"to": "elem-B92mCCGw"
+	}, {
+		"_id": "conn-UQe5swPp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3OM7wFmB",
+		"to": "elem-KmlkQ9NX"
+	}, {
+		"_id": "conn-W06fV29d",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-QrEN0WW5",
+		"to": "elem-XLcHxK0m"
+	}, {
+		"_id": "conn-XGxcIqpU",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-cSDydFfK",
+		"to": "elem-WbUnatME"
+	}, {
+		"_id": "conn-Y3Oghh1u",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Meeting",
+			"description": "https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"
+		},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-EyzjS51Q"
+	}, {
+		"_id": "conn-ZIVgiOVz",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership",
+			"description": "Arron Banks- Owns and voting rights for more than 25% but not more than 50% https://beta.companieshouse.gov.uk/company/00301930/persons-with-significant-control"
+		},
+		"from": "elem-rgR33z5G",
+		"to": "elem-l2FGv89g"
+	}, {
+		"_id": "conn-a7mWTz65",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "spy",
+			"description": "According to this report: well placed sources told Sunday telegraph that Katya Zatuliveter was a 'talent spotter' for SVR http://www.telegraph.co.uk/news/worldnews/europe/russia/8196785/Russian-spy-Foreigners-who-worked-for-the-MP.html"
+		},
+		"from": "elem-uabGk1pa",
+		"to": "elem-v0ljULzN"
+	}, {
+		"_id": "conn-afMrb7ZC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-l2FGv89g",
+		"to": "elem-n96CKH80"
+	}, {
+		"_id": "conn-asKSOrvc",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-T2pOjfpM",
+		"to": "elem-EyzjS51Q"
+	}, {
+		"_id": "conn-bxY8SXKf",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Ware47gk",
+		"to": "elem-Y4G3WoRO"
+	}, {
+		"_id": "conn-c9MLF9v9",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Met on march 9, 2017",
+			"description": "http://www.independent.co.uk/news/uk/politics/nigel-farage-julian-assange-ecuadorian-embassy-london-lbc-ukip-a7620921.html"
+		},
+		"from": "elem-C9zYiSeC",
+		"to": "elem-vPwfBs8I"
+	}, {
+		"_id": "conn-cxkGIa8w",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-1yrs91R0",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-dTMWGzSA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-GCnPNiaM",
+		"to": "elem-ryKVhLrL"
+	}, {
+		"_id": "conn-dzHbF8Ju",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-QoH0MfO4",
+		"to": "elem-33ilX4rY"
+	}, {
+		"_id": "conn-eCeCoAa9",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Campaign manager"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-hJfFZXUI"
+	}, {
+		"_id": "conn-fL0Khywb",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-TLGIoIJM",
+		"to": "elem-4PWuvvxU"
+	}, {
+		"_id": "conn-flkNUJBt",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-jhM1tJeM",
+		"to": "elem-wRGVq8el"
+	}, {
+		"_id": "conn-fnQ9l7ko",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ryKVhLrL",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-fyDmqz6Z",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-GKSnnYOl",
+		"to": "elem-5ehSGEoP"
+	}, {
+		"_id": "conn-gNvKNNeA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Advisor",
+			"description": "Former political advisor https://www.thesun.co.uk/news/3373493/russia-troll-factories-uk-general-election/"
+		},
+		"from": "elem-dYer3nPC",
+		"to": "elem-M6e4WFhS"
+	}, {
+		"_id": "conn-hSUmM5ut",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-B92mCCGw",
+		"to": "elem-NYIyCwFF"
+	}, {
+		"_id": "conn-hyxKZU11",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ryKVhLrL",
+		"to": "elem-33ilX4rY"
+	}, {
+		"_id": "conn-iEoiASZC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-ZBiFSWJ3"
+	}, {
+		"_id": "conn-icg5tRYE",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CM8bGFgZ",
+		"to": "elem-tbcSDCJe"
+	}, {
+		"_id": "conn-ik1yUrgB",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"description": "Expect UKIP to be integrated into the Tory party? http://fortune.com/2016/07/09/boris-johnson-nigel-farage-u-k-brexit/",
+			"connection type": "Political"
+		},
+		"from": "elem-qQwGHLFI",
+		"to": "elem-CM8bGFgZ"
+	}, {
+		"_id": "conn-izTCzhjC",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-oGNTcdCL"
+	}, {
+		"_id": "conn-jClt5SV8",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-YWtuRV4z",
+		"to": "elem-X20al1UI"
+	}, {
+		"_id": "conn-jQSMVoY3",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-FbFw3tTG",
+		"to": "elem-6zYVDgaB"
+	}, {
+		"_id": "conn-kAwGO2hV",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-2lkD9vR8",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-kRSngbb6",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"description": "A meeting in 2015 set up between Pouyanné Putin and a Lebanese Billionaire, reported by Le Canard, which earned François Fillon 50k euros\nhttps://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"
+		},
+		"from": "elem-33ilX4rY",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-koTa3pND",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-X20al1UI",
+		"to": "elem-clnTGHhf"
+	}, {
+		"_id": "conn-lJHDQTZJ",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Government"
+		},
+		"from": "elem-M6e4WFhS",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-lbnz5bun",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-C3a1OK9b",
+		"to": "elem-c4LSxQQt"
+	}, {
+		"_id": "conn-lig0MMlH",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-NYIyCwFF",
+		"to": "elem-oZUpJiPN"
+	}, {
+		"_id": "conn-meilFtRp",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Government"
+		},
+		"from": "elem-a8tR3WTP",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-mn7UudUk",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-6zYVDgaB",
+		"to": "elem-X20al1UI"
+	}, {
+		"_id": "conn-mr5FbT7G",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-qsuy7HUc",
+		"to": "elem-TLGIoIJM"
+	}, {
+		"_id": "conn-mvdJMHB6",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "NewsMedia"
+		},
+		"from": "elem-roXEhwds",
+		"to": "elem-oZUpJiPN"
+	}, {
+		"_id": "conn-nHZrKGvU",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Wv4jgeDP",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-nSwOGjnV",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-c4uuaqgd",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-nZx9gyKt",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Mq6713Lr",
+		"to": "elem-jhM1tJeM"
+	}, {
+		"_id": "conn-nqkAe5S0",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-bLgLkpOO",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-ntT3LowS",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-FhY2m5wt",
+		"to": "elem-Egr0LZZK"
+	}, {
+		"_id": "conn-o1qJde5d",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ZBiFSWJ3",
+		"to": "elem-qsuy7HUc"
+	}, {
+		"_id": "conn-oBsUnWiv",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-TLGIoIJM",
+		"to": "elem-lFM21wOr"
+	}, {
+		"_id": "conn-oiozwBZh",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political"
+		},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-P1YEH2zy"
+	}, {
+		"_id": "conn-orxBUCEA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3OM7wFmB",
+		"to": "elem-wwXy6aSg"
+	}, {
+		"_id": "conn-p3i8drnT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3m2zbCZC",
+		"to": "elem-QrEN0WW5"
+	}, {
+		"_id": "conn-p596E8sv",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-uabGk1pa",
+		"to": "elem-tmQ2JR5j"
+	}, {
+		"_id": "conn-pUE2KR8J",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"description": "Page impressed a friend with his relationships to Viktor Pinchuk in 2004, and landed the Merril Lynch job in Moscow. https://www.bloomberg.com/politics/articles/2016-03-30/trump-russia-adviser-carter-page-interview"
+		},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-pPbRBW1d"
+	}, {
+		"_id": "conn-qFd6Yq1q",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-l2FGv89g",
+		"to": "elem-YWtuRV4z"
+	}, {
+		"_id": "conn-qm2RJDkZ",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-X20al1UI"
+	}, {
+		"_id": "conn-qqtVr1Lh",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-C9zYiSeC",
+		"to": "elem-Ware47gk"
+	}, {
+		"_id": "conn-r8BoIRwo",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-WbUnatME",
+		"to": "elem-3OM7wFmB"
+	}, {
+		"_id": "conn-r9ohknzq",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-5ehSGEoP",
+		"to": "elem-C3a1OK9b"
+	}, {
+		"_id": "conn-rJGFnGQ7",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-GPZe2k46",
+		"to": "elem-ITzyOV1T"
+	}, {
+		"_id": "conn-rlcOzOmr",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-tODAZgGM"
+	}, {
+		"_id": "conn-s5EljoH9",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-qQwGHLFI",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-sAeRUmrB",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ITzyOV1T",
+		"to": "elem-KCzlC8PB"
+	}, {
+		"_id": "conn-sCePCRFL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"description": "Putin said that he has a very good personal relationship with Fillon. https://www.bloomberg.com/politics/articles/2017-03-21/france-s-fillon-earned-54-000-fixing-putin-meeting-canard-says"
+		},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-sZTCzAD2",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-rzHF4iCk",
+		"to": "elem-GCnPNiaM"
+	}, {
+		"_id": "conn-sfJeVmXP",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ggEGurkE",
+		"to": "elem-CY6AbUt5"
+	}, {
+		"_id": "conn-sm4X55d4",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Payment",
+			"description": "Centre of Political and Foreign Affairs paid Donald Trump Jr. $50k in Oct 2016 for a talk."
+		},
+		"from": "elem-cXsM5NQj",
+		"to": "elem-hCmwOaVd"
+	}, {
+		"_id": "conn-tEZphoSr",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CM8bGFgZ",
+		"to": "elem-qQwGHLFI"
+	}, {
+		"_id": "conn-tIQMrqNY",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-WbUnatME",
+		"to": "elem-3BSwsGfb"
+	}, {
+		"_id": "conn-tb0ol13p",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-P0OBjFaI"
+	}, {
+		"_id": "conn-tkWpJULU",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-1NmMWj7P",
+		"to": "elem-KCzlC8PB"
+	}, {
+		"_id": "conn-u1iyaXho",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-oZUpJiPN",
+		"to": "elem-C9zYiSeC"
+	}, {
+		"_id": "conn-uQYwkzLa",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KAdRNyRw",
+		"to": "elem-FhY2m5wt"
+	}, {
+		"_id": "conn-ub8cLIsS",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-Ds62uvc3",
+		"to": "elem-TLGIoIJM"
+	}, {
+		"_id": "conn-ueQpggIq",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Payment",
+			"description": "RT Paid Donald Trump for an interview with Larry King https://www.rt.com/usa/358794-trump-interview-larry-king/"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-glOqAaDZ"
+	}, {
+		"_id": "conn-uxRYprYn",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-csABj9Eo",
+		"to": "elem-Ds62uvc3"
+	}, {
+		"_id": "conn-vCfaT6kj",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-cS8wXixk"
+	}, {
+		"_id": "conn-vRlwSCKT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-lSp3oZK5",
+		"to": "elem-ghNdMmiZ"
+	}, {
+		"_id": "conn-vbYnYemT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-3OM7wFmB",
+		"to": "elem-cSayR9wq"
+	}, {
+		"_id": "conn-vh4HqGSs",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-glOqAaDZ",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-vkVMI3KT",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-mUJA2XCr",
+		"to": "elem-l2FGv89g"
+	}, {
+		"_id": "conn-wGeqF6c1",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-iouUgjGh"
+	}, {
+		"_id": "conn-wHbT1utD",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-uCdrbakN"
+	}, {
+		"_id": "conn-wT0ozo80",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Meeting"
+		},
+		"from": "elem-CY6AbUt5",
+		"to": "elem-T2pOjfpM"
+	}, {
+		"_id": "conn-xFtNvFrR",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-O3SOvHnc",
+		"to": "elem-wRGVq8el"
+	}, {
+		"_id": "conn-xpyMuEjL",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Debt-Loan",
+			"description": "First Czech Russian Bank loaned marine Le Pen's party National Front 9.8M Euros according to Le Canard Enchaîné; Additionally, 30M euros for 2017 election http://www.telegraph.co.uk/news/2016/12/21/marine-le-pens-russian-links-us-scrutiny/"
+		},
+		"from": "elem-cSayR9wq",
+		"to": "elem-LlgYTNKb"
+	}, {
+		"_id": "conn-xrGMAglK",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Ownership"
+		},
+		"from": "elem-X20al1UI",
+		"to": "elem-n96CKH80"
+	}, {
+		"_id": "conn-yI0n1KEc",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-wRGVq8el",
+		"to": "elem-KmlkQ9NX"
+	}, {
+		"_id": "conn-yJ1aCECc",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Family"
+		},
+		"from": "elem-KmlkQ9NX",
+		"to": "elem-cXsM5NQj"
+	}, {
+		"_id": "conn-yLZN7U32",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-jhM1tJeM",
+		"to": "elem-FYKqgwaL"
+	}, {
+		"_id": "conn-zHb5PeXm",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-l2FGv89g",
+		"to": "elem-clnTGHhf"
+	}, {
+		"_id": "conn-zsGO6NmR",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-CM8bGFgZ",
+		"to": "elem-Muqb7I1t"
+	}, {
+		"_id": "conn-zsowzsaA",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-X20al1UI",
+		"to": "elem-rgR33z5G"
+	}, {
+		"_id": "conn-zzIlAiTW",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-ryKVhLrL",
+		"to": "elem-KAdRNyRw"
+	}, {
+		"_id": "conn-M8kTgLLs",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {},
+		"from": "elem-tODAZgGM",
+		"to": "elem-lWN0vsUY"
+	}, {
+		"_id": "conn-hc3NmrUe",
+		"direction": "undirected",
+		"delayed": false,
+		"reversed": false,
+		"attributes": {
+			"connection type": "Political",
+			"description": "Sarkozy was Séguin's deputy"
+		},
+		"from": "elem-tODAZgGM",
+		"to": "elem-x4N29yw1"
+	}],
+	"loops": [],
+	"maps": [{
+		"_id": "map-xn8GwMya",
+		"name": "Tr2 (accidentally deleted the first)",
+		"description": "",
+		"scale": 1,
+		"center": {
+			"x": 0,
+			"y": 0
+		},
+		"defaultPerspective": "pers-Y9zui1Bi",
+		"elements": [{
+			"_id": "node-0APjkW0k",
+			"position": null,
+			"pinned": false,
+			"element": "elem-dBvb6AMl"
+		}, {
+			"_id": "node-14JIa4Qb",
+			"position": null,
+			"pinned": false,
+			"element": "elem-lFM21wOr"
+		}, {
+			"_id": "node-1CjLh2J7",
+			"position": null,
+			"pinned": false,
+			"element": "elem-LlgYTNKb"
+		}, {
+			"_id": "node-2XQ2GAUy",
+			"position": null,
+			"pinned": false,
+			"element": "elem-KmlkQ9NX"
+		}, {
+			"_id": "node-3TnOaSOb",
+			"position": null,
+			"pinned": false,
+			"element": "elem-rgR33z5G"
+		}, {
+			"_id": "node-3WYne78k",
+			"position": null,
+			"pinned": false,
+			"element": "elem-GPZe2k46"
+		}, {
+			"_id": "node-58EGyzTO",
+			"position": null,
+			"pinned": false,
+			"element": "elem-rzHF4iCk"
+		}, {
+			"_id": "node-5obp8hWx",
+			"position": null,
+			"pinned": false,
+			"element": "elem-CY6AbUt5"
+		}, {
+			"_id": "node-6XCgxjnH",
+			"position": null,
+			"pinned": false,
+			"element": "elem-P1YEH2zy"
+		}, {
+			"_id": "node-7C9RQXlF",
+			"position": null,
+			"pinned": false,
+			"element": "elem-uCdrbakN"
+		}, {
+			"_id": "node-7GpYEZ6O",
+			"position": null,
+			"pinned": false,
+			"element": "elem-1NmMWj7P"
+		}, {
+			"_id": "node-7WVJrHLN",
+			"position": null,
+			"pinned": false,
+			"element": "elem-v0ljULzN"
+		}, {
+			"_id": "node-7btUhR1j",
+			"position": null,
+			"pinned": false,
+			"element": "elem-KAdRNyRw"
+		}, {
+			"_id": "node-7d7GVY0L",
+			"position": null,
+			"pinned": false,
+			"element": "elem-y83fkwP2"
+		}, {
+			"_id": "node-8YQhrrcc",
+			"position": null,
+			"pinned": false,
+			"element": "elem-clnTGHhf"
+		}, {
+			"_id": "node-9DqPqssJ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-XLcHxK0m"
+		}, {
+			"_id": "node-9VRdLAAf",
+			"position": null,
+			"pinned": false,
+			"element": "elem-glOqAaDZ"
+		}, {
+			"_id": "node-9gPehC6p",
+			"position": null,
+			"pinned": false,
+			"element": "elem-6YuEoKGT"
+		}, {
+			"_id": "node-9nCLfgB0",
+			"position": null,
+			"pinned": false,
+			"element": "elem-tODAZgGM"
+		}, {
+			"_id": "node-AI3dCMQj",
+			"position": null,
+			"pinned": false,
+			"element": "elem-2lkD9vR8"
+		}, {
+			"_id": "node-AjIxNYNR",
+			"position": null,
+			"pinned": false,
+			"element": "elem-tmQ2JR5j"
+		}, {
+			"_id": "node-AqntuKty",
+			"position": null,
+			"pinned": false,
+			"element": "elem-YWtuRV4z"
+		}, {
+			"_id": "node-BSbjgcyg",
+			"position": null,
+			"pinned": false,
+			"element": "elem-IfQnCDq4"
+		}, {
+			"_id": "node-BnkBGdDf",
+			"position": {
+				"x": 1470.3862545798904,
+				"y": 629.1219473364895
+			},
+			"pinned": false,
+			"element": "elem-a8tR3WTP"
+		}, {
+			"_id": "node-CbJ3Ftib",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Be7Qv22q"
+		}, {
+			"_id": "node-CbwaFYTA",
+			"position": null,
+			"pinned": false,
+			"element": "elem-cS8wXixk"
+		}, {
+			"_id": "node-EHA8JhW5",
+			"position": null,
+			"pinned": false,
+			"element": "elem-NYIyCwFF"
+		}, {
+			"_id": "node-EOS10uiZ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-7vZvjNV9"
+		}, {
+			"_id": "node-FCGK0hEI",
+			"position": null,
+			"pinned": false,
+			"element": "elem-cSDydFfK"
+		}, {
+			"_id": "node-FLoVKPnI",
+			"position": null,
+			"pinned": false,
+			"element": "elem-QoH0MfO4"
+		}, {
+			"_id": "node-G2DCBEnF",
+			"position": null,
+			"pinned": false,
+			"element": "elem-P0OBjFaI"
+		}, {
+			"_id": "node-GArgp5Aa",
+			"position": null,
+			"pinned": false,
+			"element": "elem-EyzjS51Q"
+		}, {
+			"_id": "node-HccUBJlu",
+			"position": null,
+			"pinned": false,
+			"element": "elem-hCmwOaVd"
+		}, {
+			"_id": "node-HkXvN8Do",
+			"position": null,
+			"pinned": false,
+			"element": "elem-3BSwsGfb"
+		}, {
+			"_id": "node-Jbi78xNe",
+			"position": null,
+			"pinned": false,
+			"element": "elem-wRGVq8el"
+		}, {
+			"_id": "node-JhdkAIBc",
+			"position": null,
+			"pinned": false,
+			"element": "elem-X20al1UI"
+		}, {
+			"_id": "node-K3T7TV9p",
+			"position": null,
+			"pinned": false,
+			"element": "elem-cXsM5NQj"
+		}, {
+			"_id": "node-KECIo9TQ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Mq6713Lr"
+		}, {
+			"_id": "node-KaVOceyd",
+			"position": null,
+			"pinned": false,
+			"element": "elem-TsrRplNt"
+		}, {
+			"_id": "node-LaPC5V0W",
+			"position": null,
+			"pinned": false,
+			"element": "elem-tuV1Icsy"
+		}, {
+			"_id": "node-LeAOuHFB",
+			"position": null,
+			"pinned": false,
+			"element": "elem-uabGk1pa"
+		}, {
+			"_id": "node-MBekJrAN",
+			"position": null,
+			"pinned": false,
+			"element": "elem-nkFF9OH6"
+		}, {
+			"_id": "node-MHpyVUex",
+			"position": null,
+			"pinned": false,
+			"element": "elem-WbUnatME"
+		}, {
+			"_id": "node-MXh5CtXA",
+			"position": null,
+			"pinned": false,
+			"element": "elem-FbFw3tTG"
+		}, {
+			"_id": "node-NZ1xJHhJ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-mUJA2XCr"
+		}, {
+			"_id": "node-NhhaVYaM",
+			"position": null,
+			"pinned": false,
+			"element": "elem-tbcSDCJe"
+		}, {
+			"_id": "node-OIAcxWlY",
+			"position": null,
+			"pinned": false,
+			"element": "elem-1yrs91R0"
+		}, {
+			"_id": "node-OZ0rH3oD",
+			"position": null,
+			"pinned": false,
+			"element": "elem-5ehSGEoP"
+		}, {
+			"_id": "node-OdaEtuvn",
+			"position": null,
+			"pinned": false,
+			"element": "elem-C3a1OK9b"
+		}, {
+			"_id": "node-Oxt711B2",
+			"position": null,
+			"pinned": false,
+			"element": "elem-bLgLkpOO"
+		}, {
+			"_id": "node-PVpslEOj",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ryKVhLrL"
+		}, {
+			"_id": "node-PebxXR1j",
+			"position": null,
+			"pinned": false,
+			"element": "elem-3m2zbCZC"
+		}, {
+			"_id": "node-QIcFduQ1",
+			"position": null,
+			"pinned": false,
+			"element": "elem-6zYVDgaB"
+		}, {
+			"_id": "node-SfQy9TOl",
+			"position": null,
+			"pinned": false,
+			"element": "elem-GCnPNiaM"
+		}, {
+			"_id": "node-SlXKqQ5m",
+			"position": null,
+			"pinned": false,
+			"element": "elem-c4uuaqgd"
+		}, {
+			"_id": "node-T1dRZVC0",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Wv4jgeDP"
+		}, {
+			"_id": "node-TFyzC1Ux",
+			"position": null,
+			"pinned": false,
+			"element": "elem-pPbRBW1d"
+		}, {
+			"_id": "node-TVEpDg53",
+			"position": {
+				"x": -549.3431695377658,
+				"y": -221.743751901092
+			},
+			"pinned": false,
+			"element": "elem-xhg1BxnY"
+		}, {
+			"_id": "node-TWEHjZI5",
+			"position": null,
+			"pinned": false,
+			"element": "elem-l2FGv89g"
+		}, {
+			"_id": "node-TZgE01ts",
+			"position": null,
+			"pinned": false,
+			"element": "elem-9CWcrRyi"
+		}, {
+			"_id": "node-UtY4yQYt",
+			"position": null,
+			"pinned": false,
+			"element": "elem-tVMVq3pK"
+		}, {
+			"_id": "node-V4jOvB2G",
+			"position": null,
+			"pinned": false,
+			"element": "elem-eVsVrEEB"
+		}, {
+			"_id": "node-VEioWslv",
+			"position": null,
+			"pinned": false,
+			"element": "elem-nsgS5aUz"
+		}, {
+			"_id": "node-Ve2zVml5",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ZBiFSWJ3"
+		}, {
+			"_id": "node-WgUBXFcR",
+			"position": null,
+			"pinned": false,
+			"element": "elem-dYer3nPC"
+		}, {
+			"_id": "node-YO97fURB",
+			"position": null,
+			"pinned": false,
+			"element": "elem-qsuy7HUc"
+		}, {
+			"_id": "node-ZkueGjLv",
+			"position": null,
+			"pinned": false,
+			"element": "elem-CM8bGFgZ"
+		}, {
+			"_id": "node-aMfm7sDC",
+			"position": null,
+			"pinned": false,
+			"element": "elem-HIETQFdM"
+		}, {
+			"_id": "node-alRAAWIT",
+			"position": null,
+			"pinned": false,
+			"element": "elem-mxuWc05m"
+		}, {
+			"_id": "node-bH5K9XWR",
+			"position": null,
+			"pinned": false,
+			"element": "elem-iouUgjGh"
+		}, {
+			"_id": "node-bKFVyd8H",
+			"position": null,
+			"pinned": false,
+			"element": "elem-3OM7wFmB"
+		}, {
+			"_id": "node-bpZeF0N5",
+			"position": null,
+			"pinned": false,
+			"element": "elem-qQwGHLFI"
+		}, {
+			"_id": "node-dYpY7DZy",
+			"position": null,
+			"pinned": false,
+			"element": "elem-O3SOvHnc"
+		}, {
+			"_id": "node-dhB7GqTL",
+			"position": null,
+			"pinned": false,
+			"element": "elem-KCzlC8PB"
+		}, {
+			"_id": "node-ey1eUkPS",
+			"position": null,
+			"pinned": false,
+			"element": "elem-oGNTcdCL"
+		}, {
+			"_id": "node-f7MmVL8m",
+			"position": null,
+			"pinned": false,
+			"element": "elem-33ilX4rY"
+		}, {
+			"_id": "node-gO2xfFkV",
+			"position": null,
+			"pinned": false,
+			"element": "elem-GeyU9HpH"
+		}, {
+			"_id": "node-hoVE82nU",
+			"position": null,
+			"pinned": false,
+			"element": "elem-hJfFZXUI"
+		}, {
+			"_id": "node-hzAabsft",
+			"position": null,
+			"pinned": false,
+			"element": "elem-msXfbbVb"
+		}, {
+			"_id": "node-j4HOYHOd",
+			"position": null,
+			"pinned": false,
+			"element": "elem-8ShZfoVg"
+		}, {
+			"_id": "node-jbWTWr38",
+			"position": null,
+			"pinned": false,
+			"element": "elem-6OQQGFnp"
+		}, {
+			"_id": "node-jeGG21Nl",
+			"position": null,
+			"pinned": false,
+			"element": "elem-lSp3oZK5"
+		}, {
+			"_id": "node-k53H7aeJ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ggEGurkE"
+		}, {
+			"_id": "node-kTMnGbqw",
+			"position": null,
+			"pinned": false,
+			"element": "elem-FhY2m5wt"
+		}, {
+			"_id": "node-n2XScjod",
+			"position": null,
+			"pinned": false,
+			"element": "elem-B92mCCGw"
+		}, {
+			"_id": "node-nG2rhsQH",
+			"position": null,
+			"pinned": false,
+			"element": "elem-wwXy6aSg"
+		}, {
+			"_id": "node-o5OH3uFU",
+			"position": null,
+			"pinned": false,
+			"element": "elem-M6e4WFhS"
+		}, {
+			"_id": "node-p4obEdLQ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-c4LSxQQt"
+		}, {
+			"_id": "node-pjjbHVSe",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Ds62uvc3"
+		}, {
+			"_id": "node-psHv6Yip",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Egr0LZZK"
+		}, {
+			"_id": "node-pt5I98dU",
+			"position": null,
+			"pinned": false,
+			"element": "elem-FYKqgwaL"
+		}, {
+			"_id": "node-qAIX8Rbl",
+			"position": {
+				"x": -1516.9754756681702,
+				"y": -169.0582760169617
+			},
+			"pinned": false,
+			"element": "elem-roXEhwds"
+		}, {
+			"_id": "node-r99kSNgG",
+			"position": null,
+			"pinned": false,
+			"element": "elem-cSayR9wq"
+		}, {
+			"_id": "node-rERT84R2",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ZKj72YhO"
+		}, {
+			"_id": "node-rksydkKR",
+			"position": null,
+			"pinned": false,
+			"element": "elem-C9zYiSeC"
+		}, {
+			"_id": "node-scftr1Bc",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Y4G3WoRO"
+		}, {
+			"_id": "node-t3x6xU1c",
+			"position": null,
+			"pinned": false,
+			"element": "elem-QrEN0WW5"
+		}, {
+			"_id": "node-td7dFI9a",
+			"position": null,
+			"pinned": false,
+			"element": "elem-jhM1tJeM"
+		}, {
+			"_id": "node-tmZ4RVJx",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ZhHtHm56"
+		}, {
+			"_id": "node-uSjnKLVJ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Hyrfu499"
+		}, {
+			"_id": "node-ueF97vyi",
+			"position": null,
+			"pinned": false,
+			"element": "elem-Muqb7I1t"
+		}, {
+			"_id": "node-uklUOUQp",
+			"position": null,
+			"pinned": false,
+			"element": "elem-x4N29yw1"
+		}, {
+			"_id": "node-uxKrWZv0",
+			"position": null,
+			"pinned": false,
+			"element": "elem-n96CKH80"
+		}, {
+			"_id": "node-vQMpPilb",
+			"position": null,
+			"pinned": false,
+			"element": "elem-oZUpJiPN"
+		}, {
+			"_id": "node-vmop5KuA",
+			"position": null,
+			"pinned": false,
+			"element": "elem-vPwfBs8I"
+		}, {
+			"_id": "node-vryCpEj7",
+			"position": null,
+			"pinned": false,
+			"element": "elem-GKSnnYOl"
+		}, {
+			"_id": "node-wS2CXVYe",
+			"position": null,
+			"pinned": false,
+			"element": "elem-4PWuvvxU"
+		}, {
+			"_id": "node-wWlhRBYl",
+			"position": null,
+			"pinned": false,
+			"element": "elem-csABj9Eo"
+		}, {
+			"_id": "node-wfqnCYCY",
+			"position": null,
+			"pinned": false,
+			"element": "elem-4Khz9XY4"
+		}, {
+			"_id": "node-wohr6Jiy",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ITzyOV1T"
+		}, {
+			"_id": "node-wy8N6cOQ",
+			"position": null,
+			"pinned": false,
+			"element": "elem-TLGIoIJM"
+		}, {
+			"_id": "node-xcLMeoCE",
+			"position": null,
+			"pinned": false,
+			"element": "elem-T2pOjfpM"
+		}, {
+			"_id": "node-yKIc5YZr",
+			"position": null,
+			"pinned": false,
+			"element": "elem-sZFkYYyJ"
+		}, {
+			"_id": "node-zooOkS3j",
+			"position": null,
+			"pinned": false,
+			"element": "elem-ghNdMmiZ"
+		}, {
+			"_id": "node-C9AmVXV5",
+			"position": null,
+			"pinned": false,
+			"element": "elem-lWN0vsUY"
+		}],
+		"connections": [{
+			"_id": "edge-0Ri97lpb",
+			"connection": "conn-tIQMrqNY"
+		}, {
+			"_id": "edge-1B4EIgbq",
+			"connection": "conn-lbnz5bun"
+		}, {
+			"_id": "edge-1Y34cpkL",
+			"connection": "conn-13Y1fhKT"
+		}, {
+			"_id": "edge-2sOPXRdA",
+			"connection": "conn-yI0n1KEc"
+		}, {
+			"_id": "edge-3VJ8eTbB",
+			"connection": "conn-sZTCzAD2"
+		}, {
+			"_id": "edge-3h7HmkmS",
+			"connection": "conn-qm2RJDkZ"
+		}, {
+			"_id": "edge-3wNzseTa",
+			"connection": "conn-CVGG7Sxq"
+		}, {
+			"_id": "edge-49b1fWSJ",
+			"connection": "conn-ik1yUrgB"
+		}, {
+			"_id": "edge-4kYxOO3z",
+			"connection": "conn-2h23NRCz"
+		}, {
+			"_id": "edge-5276afKf",
+			"connection": "conn-A2ra9Y3I"
+		}, {
+			"_id": "edge-5aXav6pT",
+			"connection": "conn-zsowzsaA"
+		}, {
+			"_id": "edge-68P5Ejk8",
+			"connection": "conn-BAhpLuTg"
+		}, {
+			"_id": "edge-6eYIQbWy",
+			"connection": "conn-5eRTeLM8"
+		}, {
+			"_id": "edge-7L8lxfuM",
+			"connection": "conn-nHZrKGvU"
+		}, {
+			"_id": "edge-7rGckL3Z",
+			"connection": "conn-913EODBL"
+		}, {
+			"_id": "edge-8MTKCCp0",
+			"connection": "conn-JsMTPfgf"
+		}, {
+			"_id": "edge-8YQp4wTb",
+			"connection": "conn-3SLCHU22"
+		}, {
+			"_id": "edge-8gArLm1Q",
+			"connection": "conn-94MFGx2Q"
+		}, {
+			"_id": "edge-8vAyHG2v",
+			"connection": "conn-7Tqm2uon"
+		}, {
+			"_id": "edge-9nsSnbcn",
+			"connection": "conn-0xvt0VbM"
+		}, {
+			"_id": "edge-A43w3JFG",
+			"connection": "conn-eCeCoAa9"
+		}, {
+			"_id": "edge-Bl3LQhva",
+			"connection": "conn-ATSwXHea"
+		}, {
+			"_id": "edge-C3blmbYX",
+			"connection": "conn-cxkGIa8w"
+		}, {
+			"_id": "edge-C41QMmrd",
+			"connection": "conn-flkNUJBt"
+		}, {
+			"_id": "edge-CEHeeEK0",
+			"connection": "conn-yJ1aCECc"
+		}, {
+			"_id": "edge-CZ9Us96p",
+			"connection": "conn-GSump4vH"
+		}, {
+			"_id": "edge-CfPNMXov",
+			"connection": "conn-PIl1i7YA"
+		}, {
+			"_id": "edge-Cyyl5Bpk",
+			"connection": "conn-I8laIoGu"
+		}, {
+			"_id": "edge-CzdQkKTm",
+			"connection": "conn-uxRYprYn"
+		}, {
+			"_id": "edge-CzsjK4ZK",
+			"connection": "conn-7VkyUxwq"
+		}, {
+			"_id": "edge-CzstAg6h",
+			"connection": "conn-48Iebsus"
+		}, {
+			"_id": "edge-DEdFhtPx",
+			"connection": "conn-UQe5swPp"
+		}, {
+			"_id": "edge-DbvTt8zY",
+			"connection": "conn-Hygpg6Rq"
+		}, {
+			"_id": "edge-DsxgwUrR",
+			"connection": "conn-DF5RsKPL"
+		}, {
+			"_id": "edge-DwhaoBdc",
+			"connection": "conn-ntT3LowS"
+		}, {
+			"_id": "edge-E6MrxQyJ",
+			"connection": "conn-fL0Khywb"
+		}, {
+			"_id": "edge-EBPnqlxQ",
+			"connection": "conn-Ero138CC"
+		}, {
+			"_id": "edge-Ez38bndI",
+			"connection": "conn-XGxcIqpU"
+		}, {
+			"_id": "edge-FJgI9vt6",
+			"connection": "conn-7pCrR47j"
+		}, {
+			"_id": "edge-FaQkPt3k",
+			"connection": "conn-M6FYBMK4"
+		}, {
+			"_id": "edge-GfXa9tIe",
+			"connection": "conn-TDKKgoY1"
+		}, {
+			"_id": "edge-H3luGLN7",
+			"connection": "conn-vbYnYemT"
+		}, {
+			"_id": "edge-HJEIdZfh",
+			"connection": "conn-OaDuBEpA"
+		}, {
+			"_id": "edge-HRKTFgZC",
+			"connection": "conn-tb0ol13p"
+		}, {
+			"_id": "edge-I4uXLPEf",
+			"connection": "conn-8GIWX8wO"
+		}, {
+			"_id": "edge-IJWcrCSn",
+			"connection": "conn-zzIlAiTW"
+		}, {
+			"_id": "edge-IiQIcWB2",
+			"connection": "conn-Prx8WHbW"
+		}, {
+			"_id": "edge-JE9h7w1r",
+			"connection": "conn-31dSixqL"
+		}, {
+			"_id": "edge-JGBIGkXH",
+			"connection": "conn-7M8OWjvS"
+		}, {
+			"_id": "edge-JykztXqX",
+			"connection": "conn-sm4X55d4"
+		}, {
+			"_id": "edge-KcmcNHES",
+			"connection": "conn-BrkWdU25"
+		}, {
+			"_id": "edge-KexVe7kP",
+			"connection": "conn-lig0MMlH"
+		}, {
+			"_id": "edge-KkfPcVvf",
+			"connection": "conn-HUpL241Z"
+		}, {
+			"_id": "edge-Ky2hBcm5",
+			"connection": "conn-Kj6VFeCM"
+		}, {
+			"_id": "edge-LuQE7xVH",
+			"connection": "conn-Bf1FiPT9"
+		}, {
+			"_id": "edge-MJVukYJE",
+			"connection": "conn-Tdo1UZVZ"
+		}, {
+			"_id": "edge-N01QSosE",
+			"connection": "conn-oBsUnWiv"
+		}, {
+			"_id": "edge-N8jookwm",
+			"connection": "conn-hyxKZU11"
+		}, {
+			"_id": "edge-OTDlyS6e",
+			"connection": "conn-HHtzqxp8"
+		}, {
+			"_id": "edge-OTgM9PB6",
+			"connection": "conn-dTMWGzSA"
+		}, {
+			"_id": "edge-OdjY0LdB",
+			"connection": "conn-ub8cLIsS"
+		}, {
+			"_id": "edge-P8GmUnq2",
+			"connection": "conn-KTOfaOWD"
+		}, {
+			"_id": "edge-PE1emlkW",
+			"connection": "conn-DujFGgK5"
+		}, {
+			"_id": "edge-PZxwDlxf",
+			"connection": "conn-mn7UudUk"
+		}, {
+			"_id": "edge-PsfIDIqu",
+			"connection": "conn-EsYi9vP9"
+		}, {
+			"_id": "edge-QQ3erThn",
+			"connection": "conn-izTCzhjC"
+		}, {
+			"_id": "edge-QbZgmXg5",
+			"connection": "conn-wHbT1utD"
+		}, {
+			"_id": "edge-Ql6RvnX5",
+			"connection": "conn-xpyMuEjL"
+		}, {
+			"_id": "edge-QuFJBhVW",
+			"connection": "conn-jClt5SV8"
+		}, {
+			"_id": "edge-R3wXAxxB",
+			"connection": "conn-PwSEPK1c"
+		}, {
+			"_id": "edge-R6kR4GhV",
+			"connection": "conn-D5MB9jgO"
+		}, {
+			"_id": "edge-RJtgJ7hp",
+			"connection": "conn-c9MLF9v9"
+		}, {
+			"_id": "edge-RNLY1TNt",
+			"connection": "conn-vh4HqGSs"
+		}, {
+			"_id": "edge-Rg61zMIQ",
+			"connection": "conn-MtM3HNo6"
+		}, {
+			"_id": "edge-SGlhr8aP",
+			"connection": "conn-qFd6Yq1q"
+		}, {
+			"_id": "edge-SMwqU0lx",
+			"connection": "conn-orxBUCEA"
+		}, {
+			"_id": "edge-Sr3gfYT4",
+			"connection": "conn-BXZaf5If"
+		}, {
+			"_id": "edge-TRbDJQuG",
+			"connection": "conn-mvdJMHB6"
+		}, {
+			"_id": "edge-UR6xl5dF",
+			"connection": "conn-a7mWTz65"
+		}, {
+			"_id": "edge-UVidll4T",
+			"connection": "conn-FDkxhbtT"
+		}, {
+			"_id": "edge-UjZtdiFr",
+			"connection": "conn-GMPc4JHK"
+		}, {
+			"_id": "edge-VBTVVjOD",
+			"connection": "conn-TU6aCU3P"
+		}, {
+			"_id": "edge-VI4lrqHJ",
+			"connection": "conn-jQSMVoY3"
+		}, {
+			"_id": "edge-Vgj6CrGG",
+			"connection": "conn-lJHDQTZJ"
+		}, {
+			"_id": "edge-WFUKoOBy",
+			"connection": "conn-PAybDtM3"
+		}, {
+			"_id": "edge-Wsm7CINa",
+			"connection": "conn-BGcBJy4c"
+		}, {
+			"_id": "edge-XLF0laxz",
+			"connection": "conn-vkVMI3KT"
+		}, {
+			"_id": "edge-Y5ziDyUo",
+			"connection": "conn-ZIVgiOVz"
+		}, {
+			"_id": "edge-YMegnpY1",
+			"connection": "conn-HPaNNryB"
+		}, {
+			"_id": "edge-YSuTc6d8",
+			"connection": "conn-2zI4jBAS"
+		}, {
+			"_id": "edge-YUqHjW76",
+			"connection": "conn-fnQ9l7ko"
+		}, {
+			"_id": "edge-YXoNc7We",
+			"connection": "conn-ueQpggIq"
+		}, {
+			"_id": "edge-YanJu5lL",
+			"connection": "conn-rJGFnGQ7"
+		}, {
+			"_id": "edge-Ybw6bHKQ",
+			"connection": "conn-zsGO6NmR"
+		}, {
+			"_id": "edge-ZBauoQVr",
+			"connection": "conn-kRSngbb6"
+		}, {
+			"_id": "edge-ZFy3KLrZ",
+			"connection": "conn-W06fV29d"
+		}, {
+			"_id": "edge-ZIa5rgXC",
+			"connection": "conn-9xYkgpwJ"
+		}, {
+			"_id": "edge-ZTlU6mWI",
+			"connection": "conn-G0Kw93VP"
+		}, {
+			"_id": "edge-a2EgGaLU",
+			"connection": "conn-yLZN7U32"
+		}, {
+			"_id": "edge-aziXCzVI",
+			"connection": "conn-8NqVKKZY"
+		}, {
+			"_id": "edge-c1d0PjhL",
+			"connection": "conn-gNvKNNeA"
+		}, {
+			"_id": "edge-cMbCW8d7",
+			"connection": "conn-kAwGO2hV"
+		}, {
+			"_id": "edge-cd9OgOSK",
+			"connection": "conn-HpbMqqK4"
+		}, {
+			"_id": "edge-d9HNHjIP",
+			"connection": "conn-pUE2KR8J"
+		}, {
+			"_id": "edge-dDWY2hEh",
+			"connection": "conn-iEoiASZC"
+		}, {
+			"_id": "edge-datWUwbF",
+			"connection": "conn-rlcOzOmr"
+		}, {
+			"_id": "edge-dlutB8s6",
+			"connection": "conn-7jWdhps5"
+		}, {
+			"_id": "edge-dpwTkS1A",
+			"connection": "conn-IzYAfTM3"
+		}, {
+			"_id": "edge-e4VJIpCQ",
+			"connection": "conn-1rafxozb"
+		}, {
+			"_id": "edge-eIxpMolw",
+			"connection": "conn-OaAUIyBC"
+		}, {
+			"_id": "edge-ePcTM6ir",
+			"connection": "conn-3qQxz14l"
+		}, {
+			"_id": "edge-eUdEv5k8",
+			"connection": "conn-uQYwkzLa"
+		}, {
+			"_id": "edge-f8lIy1tJ",
+			"connection": "conn-nSwOGjnV"
+		}, {
+			"_id": "edge-fdpAgNK7",
+			"connection": "conn-o1qJde5d"
+		}, {
+			"_id": "edge-gtmUr48Y",
+			"connection": "conn-57Bea9ks"
+		}, {
+			"_id": "edge-hEcSC3Cp",
+			"connection": "conn-u1iyaXho"
+		}, {
+			"_id": "edge-hFa2BZdH",
+			"connection": "conn-tkWpJULU"
+		}, {
+			"_id": "edge-hiXIco1w",
+			"connection": "conn-sCePCRFL"
+		}, {
+			"_id": "edge-hkfAQqCM",
+			"connection": "conn-oiozwBZh"
+		}, {
+			"_id": "edge-hzKCyBbA",
+			"connection": "conn-1I19RoJM"
+		}, {
+			"_id": "edge-iJKXNKE2",
+			"connection": "conn-McjNI82i"
+		}, {
+			"_id": "edge-iLJsElJA",
+			"connection": "conn-Q0uSDefp"
+		}, {
+			"_id": "edge-iRXkfAFx",
+			"connection": "conn-JznLXl8O"
+		}, {
+			"_id": "edge-ihmh8Pdu",
+			"connection": "conn-P0cUoJmN"
+		}, {
+			"_id": "edge-iqLmRyNa",
+			"connection": "conn-xrGMAglK"
+		}, {
+			"_id": "edge-jCAXVb7a",
+			"connection": "conn-r9ohknzq"
+		}, {
+			"_id": "edge-jh0HH1ek",
+			"connection": "conn-2HKaDzX5"
+		}, {
+			"_id": "edge-l5c75MlH",
+			"connection": "conn-nqkAe5S0"
+		}, {
+			"_id": "edge-liNcE9sw",
+			"connection": "conn-p596E8sv"
+		}, {
+			"_id": "edge-ll9M6llR",
+			"connection": "conn-p3i8drnT"
+		}, {
+			"_id": "edge-loCTfa5t",
+			"connection": "conn-DcRIIPjh"
+		}, {
+			"_id": "edge-m5dFrPQY",
+			"connection": "conn-90qHQ5JI"
+		}, {
+			"_id": "edge-mFKzuZGg",
+			"connection": "conn-dzHbF8Ju"
+		}, {
+			"_id": "edge-mTfIUogt",
+			"connection": "conn-MaMg2ZdY"
+		}, {
+			"_id": "edge-mnnoYJXL",
+			"connection": "conn-asKSOrvc"
+		}, {
+			"_id": "edge-nS8ANPHu",
+			"connection": "conn-2bSwMr1L"
+		}, {
+			"_id": "edge-p1BW2tDo",
+			"connection": "conn-UFZyHryP"
+		}, {
+			"_id": "edge-p4DqLvcE",
+			"connection": "conn-xFtNvFrR"
+		}, {
+			"_id": "edge-pSehEhcw",
+			"connection": "conn-RGeu9Cjv"
+		}, {
+			"_id": "edge-pcI08sR8",
+			"connection": "conn-RQrYRvWC"
+		}, {
+			"_id": "edge-pnxY4IRT",
+			"connection": "conn-r8BoIRwo"
+		}, {
+			"_id": "edge-qCgi4334",
+			"connection": "conn-vRlwSCKT"
+		}, {
+			"_id": "edge-qJbE2qjI",
+			"connection": "conn-7thzYHlO"
+		}, {
+			"_id": "edge-qLfxG1l1",
+			"connection": "conn-hSUmM5ut"
+		}, {
+			"_id": "edge-qS79WiTC",
+			"connection": "conn-vCfaT6kj"
+		}, {
+			"_id": "edge-qd8678Iv",
+			"connection": "conn-GyQpWIxP"
+		}, {
+			"_id": "edge-rB0etMUP",
+			"connection": "conn-EvfXB2wp"
+		}, {
+			"_id": "edge-rWbJnaDi",
+			"connection": "conn-s5EljoH9"
+		}, {
+			"_id": "edge-s8TuYO0k",
+			"connection": "conn-Qn38hkfw"
+		}, {
+			"_id": "edge-sLdq3k44",
+			"connection": "conn-afMrb7ZC"
+		}, {
+			"_id": "edge-sP0qHsgG",
+			"connection": "conn-NfzwPVce"
+		}, {
+			"_id": "edge-t38iwim6",
+			"connection": "conn-IjMjAWyp"
+		}, {
+			"_id": "edge-v0nl4HAv",
+			"connection": "conn-koTa3pND"
+		}, {
+			"_id": "edge-vJdRNLPX",
+			"connection": "conn-Y3Oghh1u"
+		}, {
+			"_id": "edge-w8Msagk3",
+			"connection": "conn-nZx9gyKt"
+		}, {
+			"_id": "edge-wCOU2Voq",
+			"connection": "conn-sAeRUmrB"
+		}, {
+			"_id": "edge-wG4GfDdu",
+			"connection": "conn-sfJeVmXP"
+		}, {
+			"_id": "edge-wWizi6fr",
+			"connection": "conn-wGeqF6c1"
+		}, {
+			"_id": "edge-x6ICr5tJ",
+			"connection": "conn-icg5tRYE"
+		}, {
+			"_id": "edge-x8Rtz8ky",
+			"connection": "conn-mr5FbT7G"
+		}, {
+			"_id": "edge-xFogzHfY",
+			"connection": "conn-fyDmqz6Z"
+		}, {
+			"_id": "edge-xKOoqiG1",
+			"connection": "conn-3f5RPRZL"
+		}, {
+			"_id": "edge-yc7t5BHl",
+			"connection": "conn-InAPUV6X"
+		}, {
+			"_id": "edge-zgu0Kj8u",
+			"connection": "conn-zHb5PeXm"
+		}, {
+			"_id": "edge-h95b0b1k",
+			"connection": "conn-M8kTgLLs"
+		}, {
+			"_id": "edge-yDOPxIHF",
+			"connection": "conn-hc3NmrUe"
+		}],
+		"loops": []
+	}],
+	"perspectives": [{
+		"_id": "pers-Y9zui1Bi",
+		"name": "Tr2 (accidentally deleted the first)",
+		"style": "@settings {\n  template: sna;\n  element-size: 11;\n  font-color: #fff1a2;\n  font-size: 41;\n}\n\n/* France */\nelement[\"tags\"=\"France\"] {\n  color: #3eaba0;\n}\n\n/* American with Russian Ties */\nelement[\"tags\"=\"American with Russian Ties\"] {\n  color: #fd7234;\n}\n\n/* Russia */\nelement[\"tags\"=\"Russia\"] {\n  color: #776db3;\n}\n\n/* Italy */\nelement[\"tags\"=\"Italy\"] {\n  color: #82bbdb;\n}\n\n/* UK */\nelement[\"tags\"=\"UK\"] {\n  color: #cf9236;\n}\n\n"
+	}]
+}
